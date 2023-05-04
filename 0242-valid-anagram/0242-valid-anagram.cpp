@@ -7,24 +7,19 @@ public:
             return false;
         }
 
+        vector<int> letters(26, 0);
+
         for (int i = 0; i < s.length(); i++)
         {
-            if (t[i] != s[i])
+            letters[s[i] - 'a']++;
+            letters[t[i] - 'a']--;
+        }
+
+        for (int i = 0; i < letters.size(); i++)
+        {
+            if (letters[i] != 0)
             {
-                int counter = i;
-                for (int j = i; j < t.length(); j++)
-                {
-                    if (s[i] == t[j])
-                    {
-                        swap(t[i], t[j]);
-                        break;
-                    }
-                    counter++;
-                }
-                if (counter == t.length())
-                {
-                    return false;
-                }
+                return false;
             }
         }
 
