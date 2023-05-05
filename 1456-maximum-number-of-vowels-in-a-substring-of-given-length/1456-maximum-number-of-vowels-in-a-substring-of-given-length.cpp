@@ -1,44 +1,36 @@
 class Solution {
 public:
 
-    int isVowel(char letter)
+    bool isVowel(char c)
     {
-        string vowels = "aeiou";
-
-        for (int i = 0; i < vowels.length(); i++)
+        if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
         {
-            if (letter == vowels[i])
-            {
-                return 1;
-            }
+            return true;
         }
-        return 0;
+        return false;
     }
 
     int maxVowels(string s, int k) {
         
         int counter = 0;
-        int length = 0;
         int mostVowels = 0;
         for (int i = 0; i < s.length(); i++)
         {
-            
-            if (length < k)
+            if (isVowel(s[i]))
             {
-                counter += isVowel(s[i]);
-                length++;
+                counter++;
             }
-            else
+
+            if (i+1 >= k)
             {
-                counter += isVowel(s[i]);
-                counter -= isVowel(s[i-k]);
+                mostVowels = max(mostVowels, counter);
+
+                if (isVowel(s[i+1-k]))
+                {
+                    counter--;
+                }
             }
-            
-            if (counter > mostVowels)
-            {
-                mostVowels = counter;
-            }
-            
+
         }
 
         return mostVowels;
