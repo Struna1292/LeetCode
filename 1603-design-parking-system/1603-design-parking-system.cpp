@@ -3,11 +3,7 @@ public:
     int big = 0;
     int medium = 0;
     int small = 0;
-    ParkingSystem(int big, int medium, int small) {
-        this->big = big;
-        this->medium = medium;
-        this->small = small;
-    }
+    ParkingSystem(int big, int medium, int small): big(big), medium(medium), small(small) {}
     
     bool addCar(int carType) {
         if (carType == 3 && small)
