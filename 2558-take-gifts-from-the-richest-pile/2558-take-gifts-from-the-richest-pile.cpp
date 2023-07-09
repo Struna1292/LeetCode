@@ -8,7 +8,14 @@ public:
         for (int i = 0; i < k; i++)
         {
             gifts[0] = sqrt(gifts[0]);
-            sort(begin(gifts), end(gifts), greater<int>());
+            int j = 0;
+            int k = 1;
+            while (k < gifts.size() && gifts[j] < gifts[k])
+            {
+                swap(gifts[j], gifts[k]);
+                j++;
+                k++;
+            }
         }
         
         for (int i = 0; i < gifts.size(); i++)
