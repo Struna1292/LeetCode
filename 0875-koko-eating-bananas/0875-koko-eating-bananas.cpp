@@ -15,6 +15,8 @@ public:
             int currHours = h;
             for (int i = 0; i < piles.size(); i++)
             {
+                if (currHours < 0)
+                    break;
                 currHours -= ceil((double)piles[i] / (double)mid);
             }
             
