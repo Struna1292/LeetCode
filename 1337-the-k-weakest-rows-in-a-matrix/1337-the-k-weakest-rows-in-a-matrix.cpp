@@ -1,29 +1,28 @@
 class Solution {
 public:
     vector<int> kWeakestRows(vector<vector<int>>& mat, int k) {
-        vector<pair<int,int>> soldiers;
+        vector<pair<int,int>> rows; // value and index
 
         for (int i = 0; i < mat.size(); i++)
         {
-            int counter = 0;
+            int value = 0;
             for (int j = 0; j < mat[i].size(); j++)
             {
-                if (mat[i][j] == 0)
+                if (mat[i][j] == 1)
                 {
-                    break;
+                    value++;
                 }
-                counter++;
             }
-            soldiers.push_back({counter, i});
+            rows.push_back({value,i});
         }
 
-        sort(begin(soldiers), end(soldiers));
+        sort(begin(rows), end(rows));
 
         vector<int> output;
 
         for (int i = 0; i < k; i++)
         {
-            output.push_back(soldiers[i].second);
+            output.push_back(rows[i].second);
         }
 
         return output;
