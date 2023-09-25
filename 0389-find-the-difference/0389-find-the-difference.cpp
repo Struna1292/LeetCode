@@ -1,33 +1,17 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        s += t;
         sort(begin(s), end(s));
+        sort(begin(t), end(t));
 
-        char prev = s[0];
-        int counter = 1;
-        for (int i = 1; i < s.length(); i++)
+        for (int i = 0; i < s.length(); i++)
         {
-            if (s[i] == prev)
+            if (s[i] != t[i])
             {
-                counter++;
-            }
-            else
-            {
-                if (counter % 2 != 0)
-                {
-                    return prev;
-                }
-                counter = 1;
-                prev = s[i];
-            }
-            if (i+1 == s.length())
-            {
-                return prev;
+                return t[i];
             }
         }
-        
-        return prev;
 
+        return t[t.length()-1];
     }
 };
