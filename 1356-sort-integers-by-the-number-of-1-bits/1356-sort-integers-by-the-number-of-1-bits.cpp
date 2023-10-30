@@ -1,28 +1,31 @@
 class Solution {
 public:
     vector<int> sortByBits(vector<int>& arr) {
-
-        vector<pair<int,int>> nums; // first is number of bits second is number
+        vector<pair<int,int>> bits(arr.size(), {0, 0});
 
         for (int i = 0; i < arr.size(); i++)
         {
-            int num = arr[i];
+            int curr = arr[i];
+            bits[i].second = curr;
 
             int counter = 0;
-            while (num != 0)
+            while (curr > 0)
             {
-                counter += (num & 1);
-                num >>= 1;
+                if ((curr & 1) == 1)
+                {
+                    counter++;
+                }
+                curr >>= 1;
             }
 
-            nums.push_back({counter, arr[i]});
+            bits[i].first = counter;
         }
 
-        sort(begin(nums), end(nums));
+        sort(begin(bits), end(bits));
 
         for (int i = 0; i < arr.size(); i++)
         {
-            arr[i] = nums[i].second;
+            arr[i] = bits[i].second;
         }
 
         return arr;
