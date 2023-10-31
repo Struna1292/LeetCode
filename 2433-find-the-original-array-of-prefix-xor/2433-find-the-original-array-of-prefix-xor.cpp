@@ -1,15 +1,14 @@
 class Solution {
 public:
     vector<int> findArray(vector<int>& pref) {
+        int n = pref.size();
+        vector<int> output(n);
+        output[0] = pref[0];
 
-        vector<int> arr(pref.size(), 0);
-        arr[0] = pref[0];
-
-        for (int i = 1; i < pref.size(); i++)
-        {
-            arr[i] = pref[i] ^ pref[i-1];
+        for (int i = 1; i < n; i++) {
+            output[i] = pref[i] ^ pref[i - 1];
         }
 
-        return arr;
+        return output;
     }
 };
