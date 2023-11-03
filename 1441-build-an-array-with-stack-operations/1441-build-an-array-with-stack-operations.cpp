@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<string> buildArray(vector<int>& target, int n) {
-        
         int num = 1;
         vector<string> output;
 
