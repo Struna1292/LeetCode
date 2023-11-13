@@ -10,27 +10,25 @@ public:
     }
 
     string sortVowels(string s) {
-        
         vector<char> vowels;
-
         vector<int> indexes;
 
         for (int i = 0; i < s.length(); i++)
         {
             if (isVowel(s[i]))
             {
-                indexes.push_back(i);
                 vowels.push_back(s[i]);
+                indexes.push_back(i);
             }
         }
 
         sort(begin(vowels), end(vowels));
 
-        for (int i = 0; i < vowels.size(); i++)
+        for (int i = 0; i < indexes.size();i++)
         {
             s[indexes[i]] = vowels[i];
         }
 
         return s;
-    }
+    }   
 };
