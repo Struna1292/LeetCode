@@ -1,7 +1,6 @@
 class Solution {
 public:
     int garbageCollection(vector<string>& garbage, vector<int>& travel) {
-
         vector<pair<char,int>> occurrences = {{'M', 0}, {'G', 0}, {'P', 0}};
 
         for (int i = 0; i < garbage.size(); i++)
