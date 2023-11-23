@@ -1,50 +1,35 @@
 class Solution {
 public:
     vector<bool> checkArithmeticSubarrays(vector<int>& nums, vector<int>& l, vector<int>& r) {
-
-        int m = l.size();
+        
         vector<bool> output;
-        output.reserve(m);
 
-        for (int i = 0; i < m; i++)
+        for (int i = 0; i < l.size(); i++)
         {
-            vector<int> curr;
-            for (int j = l[i]; j <= r[i]; j++)
+            vector<int> curr(r[i]+1-l[i], 0);
+            int j = l[i];
+            for (int i = 0; i < curr.size(); i++)
             {
-                curr.push_back(nums[j]);
+                curr[i] = nums[j];
+                j++;
             }
 
-            sort(begin(curr), end(curr), greater<int>());
-
-            if (curr.size() <= 2)
-            {
-                output.emplace_back(true);
-                continue;
-            }
+            sort(begin(curr), end(curr));
 
             int diff = curr[1] - curr[0];
-            int counter = 2;
-            for (int j = 2; j < curr.size(); j++)
+
+            bool match = true;
+            for (int i = 1; i < curr.size()-1; i++)
             {
-                if (curr[j] - curr[j-1] == diff)
+                if (curr[i+1] - curr[i] != diff)
                 {
-                    counter++;
-                }
-                else
-                {
+                    match = false;
                     break;
                 }
             }
-            
-            if (counter == curr.size())
-            {
-                output.emplace_back(true);
-            }
-            else
-            {
-                output.emplace_back(false);
-            }
-        }
+
+            output.push_back(match);
+        }   
 
         return output;
     }
