@@ -1,12 +1,17 @@
 class Solution {
 public:
     int hammingWeight(uint32_t n) {
-        int counter = 0;
-        while (n != 0)
+        int output = 0;
+
+        while (n > 0)
         {
-            counter += (n & 1);
+            if ((n & 1) == 1)
+            {
+                output++;
+            }
             n >>= 1;
         }
-        return counter;
+
+        return output;
     }
 };
