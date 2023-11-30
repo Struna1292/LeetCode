@@ -6,21 +6,23 @@ public:
         int sum2 = 0;
         int i = 0;
         bool check = true;
+        int curr = 1;
 
         int output = 0;
 
         while (n > 0)
         {
+            curr *= 2;
             if ((n & 1) == 1)
             {
                 if (check)
                 {
-                    sum1 += pow(2,i+1)-1;
+                    sum1 += curr-1;
                     check = false;
                 }
                 else
                 {
-                    sum2 += pow(2,i+1)-1;
+                    sum2 += curr-1;
                     check = true;
                 } 
             }
