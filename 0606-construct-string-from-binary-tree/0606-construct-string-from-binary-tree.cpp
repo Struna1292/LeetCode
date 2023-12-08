@@ -11,43 +11,34 @@
  */
 class Solution {
 public:
-    void inOrder(TreeNode* root, string& s)
+    void preOrder(TreeNode* root, string& s)
     {
         if (root == nullptr)
         {
             return;
         }
 
-        string num = to_string(root->val);
+        s += to_string(root->val);
 
-        for (int i = 0; i < num.length(); i++)
-        {
-            s.push_back(num[i]);
-        }
-        
         if (root->left != nullptr || root->right != nullptr)
         {
-            s.push_back('(');
-
-            inOrder(root->left, s);
-
-            s.push_back(')');
+            s += "(";
+            preOrder(root->left, s);
+            s += ")";
         }
 
         if (root->right != nullptr)
         {
-            s.push_back('(');
-
-            inOrder(root->right, s);
-
-            s.push_back(')');
+            s += "(";
+            preOrder(root->right, s);
+            s += ")";
         }
     }
 
     string tree2str(TreeNode* root) {
-        string output;
+        string output = "";
 
-        inOrder(root, output);
+        preOrder(root, output);
 
         return output;
     }
