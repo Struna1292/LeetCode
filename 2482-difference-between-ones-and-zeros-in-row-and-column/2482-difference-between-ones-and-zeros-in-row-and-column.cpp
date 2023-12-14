@@ -1,88 +1,39 @@
 class Solution {
 public:
     vector<vector<int>> onesMinusZeros(vector<vector<int>>& grid) {
-        int r = grid.size();
-        int c = grid[0].size();
+        vector<vector<int>> output(grid.size(), vector<int>(grid[0].size(), 0));
 
-        vector<vector<int>> ones(r, vector<int>(c ,0));
+        vector<int> rowsOne(grid.size(), 0);
+        vector<int> rowsZero(grid.size(), 0);
 
-        for (int i = 0; i < r; i++)
+        vector<int> columnsOne(grid[0].size(), 0);
+        vector<int> columnsZero(grid[0].size(), 0);
+
+        for (int i = 0; i < grid.size(); i++)
         {
-            int counter = 0;
-            for (int j = 0 ; j < c; j++)
-            {
-                if (grid[i][j] == 1)
-                {
-                    counter++;
-                }
-            }
-            for (int j = 0 ; j < c; j++)
-            {
-                ones[i][j] = counter;
-            }
-        }
-
-        for (int i = 0; i < c; i++)
-        {
-            int counter = 0;
-            for (int j = 0; j < r; j++)
-            {
-                if (grid[j][i] == 1)
-                {
-                    counter++;
-                }
-            }
-
-            for (int j = 0; j < r; j++)
-            {
-                ones[j][i] += counter;
-            }
-        }
-
-
-        vector<vector<int>> zeros(r, vector<int>(c ,0));
-
-        for (int i = 0; i < r; i++)
-        {
-            int counter = 0;
-            for (int j = 0 ; j < c; j++)
+            for (int j = 0; j < grid[i].size(); j++)
             {
                 if (grid[i][j] == 0)
                 {
-                    counter++;
+                    rowsZero[i]++;
+                    columnsZero[j]++;
                 }
-            }
-            for (int j = 0 ; j < c; j++)
-            {
-                zeros[i][j] = counter;
-            }
-        }
-
-        for (int i = 0; i < c; i++)
-        {
-            int counter = 0;
-            for (int j = 0; j < r; j++)
-            {
-                if (grid[j][i] == 0)
+                else
                 {
-                    counter++;
+                    rowsOne[i]++;
+                    columnsOne[j]++;
                 }
             }
-
-            for (int j = 0; j < r; j++)
-            {
-                zeros[j][i] += counter;
-            }
         }
 
-        for (int i = 0; i < r; i++)
+        for (int i = 0; i < output.size(); i++)
         {
-            for (int j = 0; j < c; j++)
+            for (int j = 0; j < output[i].size(); j++)
             {
-                grid[i][j] = ones[i][j] - zeros[i][j];
+                output[i][j] = rowsOne[i] + columnsOne[j] - rowsZero[i] - columnsZero[j];
             }
         }
 
-        return grid;
+        return output;
     }
 };
