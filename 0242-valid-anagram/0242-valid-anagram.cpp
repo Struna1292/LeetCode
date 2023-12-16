@@ -1,28 +1,28 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-
         if (s.length() != t.length())
         {
             return false;
         }
 
-        vector<int> letters(26, 0);
+        vector<int> sAlph(26, 0);
+        vector<int> tAlph(26, 0);
 
         for (int i = 0; i < s.length(); i++)
         {
-            letters[s[i] - 'a']++;
-            letters[t[i] - 'a']--;
+            sAlph[s[i]-'a']++;
+            tAlph[t[i]-'a']++;
         }
 
-        for (int i = 0; i < letters.size(); i++)
+        for (int i = 0; i < 26; i++)
         {
-            if (letters[i] != 0)
+            if (sAlph[i] != tAlph[i])
             {
                 return false;
             }
         }
-
+        
         return true;
     }
 };
