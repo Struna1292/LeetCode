@@ -1,14 +1,28 @@
 class Solution {
 public:
     int buyChoco(vector<int>& prices, int money) {
-        
-        sort(begin(prices), end(prices));
+        int s1 = 100;
+        int s2 = 100;
 
-        if (prices[0] + prices[1] <= money)
+        for (int i = 0; i < prices.size(); i++)
         {
-            return money - (prices[0] + prices[1]);
+            if (s1 > prices[i])
+            {
+                s2 = s1;
+                s1 = prices[i];
+            }
+            else if (s2 > prices[i])
+            {
+                s2 = prices[i];
+            }
         }
 
-        return money;
+        int leftovers = money - s1 - s2;
+
+        if (leftovers < 0)
+        {
+            return money;
+        }
+        return leftovers;
     }
 };
