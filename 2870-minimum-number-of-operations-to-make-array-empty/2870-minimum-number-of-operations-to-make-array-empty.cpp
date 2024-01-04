@@ -21,11 +21,7 @@ public:
                 {
                     output += counter / 3;
                 }
-                else if (counter % 3 == 1)
-                {
-                    output += (counter / 3)+1;
-                }
-                else if (counter % 3 == 2)
+                else
                 {
                     output += (counter / 3)+1;
                 }
@@ -48,14 +44,11 @@ public:
         {
             output += counter / 3;
         }
-        else if (counter % 3 == 1)
+        else
         {
             output += (counter / 3)+1;
         }
-        else if (counter % 3 == 2)
-        {
-            output += (counter / 3)+1;
-        }
+
 
         return output;
     }
