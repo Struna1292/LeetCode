@@ -11,27 +11,27 @@
  */
 class Solution {
 public:
-    void inOrder(TreeNode* curr, int low, int high, int &output)
+    void helper(TreeNode* root, int low, int high, int& output)
     {
-        if (curr == nullptr)
+        if (root == nullptr)
         {
             return;
         }
 
-        if (curr->val >= low && curr->val <= high)
+        if (root->val >= low && root->val <= high)
         {
-            output += curr->val;
+            output += root->val;
         }
 
-        inOrder(curr->left, low, high, output);
+        helper(root->left, low, high, output);
 
-        inOrder(curr->right, low, high, output);
+        helper(root->right, low, high, output);
     }
 
     int rangeSumBST(TreeNode* root, int low, int high) {
         int output = 0;
 
-        inOrder(root, low, high, output);
+        helper(root, low, high, output);
 
         return output;
     }
