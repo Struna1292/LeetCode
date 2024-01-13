@@ -1,25 +1,25 @@
 class Solution {
 public:
     int minSteps(string s, string t) {
+        vector<int> a1(26, 0);
+        vector<int> a2(26, 0);
 
-        int sLetters[26] = { 0 };
-        int tLetters[26] = { 0 };
-        
         for (int i = 0; i < s.length(); i++)
         {
-            sLetters[s[i]-'a']++;
-            tLetters[t[i]-'a']++;
+            a1[s[i]-'a']++;
+            a2[t[i]-'a']++;
         }
-        
-        int counter = 0;
+
+        int output = 0;
+
         for (int i = 0; i < 26; i++)
         {
-            if (sLetters[i] > tLetters[i])
+            if (a1[i] > a2[i])
             {
-                counter += sLetters[i] - tLetters[i];
+                output += a1[i] - a2[i];
             }
         }
 
-        return counter;
+        return output;
     }
 };
