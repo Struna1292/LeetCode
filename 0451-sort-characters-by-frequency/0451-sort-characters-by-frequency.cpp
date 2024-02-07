@@ -1,44 +1,39 @@
 class Solution {
 public:
     string frequencySort(string s) {
-
         vector<pair<int,char>> freq;
 
         for (int i = 0; i < s.length(); i++)
         {
-            int counter = 0;
+            bool found = false;
             for (int j = 0; j < freq.size(); j++)
             {
-                if (s[i] == freq[j].second)
+                if (freq[j].second == s[i])
                 {
                     freq[j].first++;
-                    counter = 0;
+                    found = true;
                     break;
-                }
-                else
-                {
-                    counter++;
                 }
             }
 
-            if (counter == freq.size())
+            if (!found)
             {
-                freq.push_back({1, s[i]});
+                freq.push_back({1,s[i]});
             }
         }
 
         sort(begin(freq), end(freq));
 
-        int k = 0;
+        string output;
+
         for (int i = freq.size()-1; i >= 0; i--)
         {
             for (int j = 0; j < freq[i].first; j++)
             {
-                s[k] = freq[i].second;
-                k++;
+                output.push_back(freq[i].second);
             }
         }
 
-        return s;
+        return output;
     }
 };
