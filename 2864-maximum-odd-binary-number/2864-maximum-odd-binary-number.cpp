@@ -1,44 +1,38 @@
 class Solution {
 public:
     string maximumOddBinaryNumber(string s) {
-        if (s.length() == 1)
-        {
-            return s;
-        }
-        
-        int i = s.length()-2;
 
-        while (s[s.length()-1] != '1' && i >= 0)
+        int j = s.length()-2;
+
+        while (s[s.length()-1] != '1' && j >= 0)
         {
-            if (s[i] == '1')
+            if (s[j] == '1')
             {
-                s[s.length()-1] = '1';
-                s[i] = '0';
-                break;
+                swap(s[j], s[s.length()-1]);
             }
-            i--;
+            else
+            {
+                j--;
+            }
         }
 
-        int j = 1;
-        for (i = 0; i < s.length()-2; i++)
+        int i = 0;
+
+        while (i < j)
         {
-            if (j == s.length()-1)
-            {
-                break;
-            }
             if (s[i] == '0')
             {
-                j = i+1;
-                while (s[j] != '1' && j < s.length()-2)
+                while (s[j] != '1' && j > i)
                 {
-                    j++;
+                    j--;
                 }
-                if (s[j] == '1')
+
+                if (s[j] == '1' && j != i)
                 {
-                    s[i] = '1';
-                    s[j] = '0';
+                    swap(s[i], s[j]);
                 }
             }
+            i++;
         }
         
         return s;
