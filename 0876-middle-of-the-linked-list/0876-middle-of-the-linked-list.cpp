@@ -10,25 +10,31 @@
  */
 class Solution {
 public:
-    int length(ListNode* head)
-    {
-        int counter = 0;
-        while (head != NULL)
-        {
-            counter++;
-            head = head->next;
-        }
-        return counter;
-    }
-
     ListNode* middleNode(ListNode* head) {
-        int mid = length(head) / 2;
-        int counter = 0;
-        while (head != NULL && counter != mid)
+        ListNode* pointer = head;
+
+        ListNode* fastPointer = head;
+
+        int i = 0;
+
+        while (fastPointer->next != nullptr && fastPointer->next->next != nullptr)
         {
-            counter++;
-            head = head->next;
+            i += 2;
+            pointer = pointer->next;
+            fastPointer = fastPointer->next->next;
         }
-        return head;
+
+        while (fastPointer != nullptr)
+        {
+            fastPointer = fastPointer->next;
+            i++;
+        }
+
+        if (i % 2 == 0)
+        {
+            pointer = pointer->next;
+        }
+
+        return pointer;
     }
 };
