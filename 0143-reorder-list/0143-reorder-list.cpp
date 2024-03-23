@@ -11,33 +11,32 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
+        vector<int> nums;
 
         ListNode* curr = head;
-        vector<int> nums;
-        while (curr != NULL)
+
+        while (curr != nullptr)
         {
             nums.push_back(curr->val);
             curr = curr->next;
         }
 
-        int i = 0;
-        int j = nums.size()-1;
-        int counter = 1;
-        curr = head;
-        while (curr != NULL)
+        int j = 0;
+        int k = nums.size()-1;
+
+        for (int i = 0; i < nums.size(); i++)
         {
-            if (counter % 2 != 0)
+            if ((i+1) % 2 != 0)
             {
-                curr->val = nums[i];
-                i++;
+                head->val = nums[j];
+                j++;
             }
             else
             {
-                curr->val = nums[j];
-                j--;
+                head->val = nums[k];
+                k--;
             }
-            counter++;
-            curr = curr->next;
+            head = head->next;
         }
 
     }
