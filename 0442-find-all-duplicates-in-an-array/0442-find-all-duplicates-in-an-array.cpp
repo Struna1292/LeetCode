@@ -4,13 +4,19 @@ public:
         sort(begin(nums), end(nums));
 
         vector<int> output;
-        for (int i = 0; i < nums.size()-1; i++)
+
+        int prev = nums[0];
+
+        for (int i = 1; i < nums.size(); i++)
         {
-            if (nums[i] == nums[i+1])
+            if (nums[i] == prev)
             {
-                output.push_back(nums[i]);
-                i++;
+                if (output.size() == 0 || output[output.size()-1] != nums[i])
+                {
+                    output.push_back(nums[i]);
+                }
             }
+            prev = nums[i];
         }
 
         return output;
