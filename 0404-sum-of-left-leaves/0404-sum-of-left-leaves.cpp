@@ -11,24 +11,27 @@
  */
 class Solution {
 public:
-    void inOrder(TreeNode* root, int &sum)
+    void inOrder(TreeNode* root, int& output)
     {
-        if (root == NULL)
+        if (root == nullptr)
         {
             return;
         }
 
-        if (root->left != NULL && root->left->left == NULL && root->left->right == NULL)
+        if (root->left != nullptr && root->left->left == nullptr && root->left->right == nullptr)
         {
-            sum += root->left->val;
+            output += root->left->val;
         }
-        inOrder(root->left, sum);
 
-        inOrder(root->right, sum);
+        inOrder(root->left, output);
+
+        inOrder(root->right, output);
     }
 
     int sumOfLeftLeaves(TreeNode* root) {
+        
         int output = 0;
+
         inOrder(root, output);
 
         return output;
