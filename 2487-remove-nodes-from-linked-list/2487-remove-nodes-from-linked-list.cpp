@@ -13,46 +13,41 @@ public:
     ListNode* removeNodes(ListNode* head) {
         
         vector<int> nums;
-        ListNode* curr1 = head;
-        while (curr1 != NULL)
+
+        ListNode* curr = head;
+
+        while (curr != nullptr)
         {
-            nums.push_back(curr1->val);
-            curr1 = curr1->next;
+            nums.push_back(curr->val);
+            ListNode* temp = curr;
+            curr = curr->next;
+            delete temp;
         }
 
-        int biggest = nums[nums.size()-1];
-        vector<int> curr = {biggest};
+        stack<int> st;
+
+        st.push(nums[nums.size()-1]);
+
         for (int i = nums.size()-2; i >= 0; i--)
         {
-            if (nums[i] >= biggest)
+            if (nums[i] >= st.top())
             {
-                biggest = nums[i];
-                curr.push_back(biggest);
+                st.push(nums[i]);
             }
         }
 
-        int i = 0;
-        int j = curr.size()-1;
+        head = new ListNode;
 
-        while (i < j)
+        curr = head;
+
+        while(!st.empty())
         {
-            swap(curr[i], curr[j]);
-            i++;
-            j--;
-        }
-
-        ListNode* curr2 = head;
-
-        for (int i = 0; i < curr.size(); i++)
-        {
-            curr2->val = curr[i];
-            if (i+1 != curr.size())
+            curr->val = st.top();
+            st.pop();
+            if (!st.empty())
             {
-                curr2 = curr2->next;
-            }
-            else
-            {
-                curr2->next = NULL;
+                curr->next = new ListNode;
+                curr = curr->next;
             }
         }
 
