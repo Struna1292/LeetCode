@@ -25,12 +25,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0409-longest-palindrome](https://github.com/Struna1292/LeetCode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Struna1292/LeetCode/tree/master/1044-find-common-characters) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Struna1292/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 # Array
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/Struna1292/LeetCode/tree/master/1044-find-common-characters) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Struna1292/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3430-count-days-without-meetings](https://github.com/Struna1292/LeetCode/tree/master/3430-count-days-without-meetings) |
 # Sorting
 |  |
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/Struna1292/LeetCode/tree/master/3430-count-days-without-meetings) |
+# Bit Manipulation
+|  |
+| ------- |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Struna1292/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
