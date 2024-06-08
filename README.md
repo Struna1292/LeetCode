@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0344-reverse-string](https://github.com/Struna1292/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Struna1292/LeetCode/tree/master/0409-longest-palindrome) |
+| [0889-buddy-strings](https://github.com/Struna1292/LeetCode/tree/master/0889-buddy-strings) |
 | [1044-find-common-characters](https://github.com/Struna1292/LeetCode/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Struna1292/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3451-string-compression-iii](https://github.com/Struna1292/LeetCode/tree/master/3451-string-compression-iii) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Struna1292/LeetCode/tree/master/0409-longest-palindrome) |
+| [0889-buddy-strings](https://github.com/Struna1292/LeetCode/tree/master/0889-buddy-strings) |
 | [1044-find-common-characters](https://github.com/Struna1292/LeetCode/tree/master/1044-find-common-characters) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Struna1292/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 # Array
