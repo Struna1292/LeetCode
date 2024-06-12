@@ -1,9 +1,20 @@
 class Solution {
 public:
+    void helper(int counter, int &i, vector<int>& nums, int num)
+    {
+        while (counter > 0)
+        {
+            counter--;
+            nums[i] = num;
+            i++;
+        }
+    }
+
     void sortColors(vector<int>& nums) {
         
         int zeros = 0;
         int ones = 0;
+        int twos = 0;
 
         for (int i = 0; i < nums.size(); i++)
         {
@@ -15,25 +26,19 @@ public:
             {
                 ones++;
             }
-        }   
-
-        for (int i = 0; i < nums.size(); i++)
-        {
-            if (zeros > 0)
+            else
             {
-                zeros--;
-                nums[i] = 0;
-            }
-            else if (ones > 0)
-            {
-                ones--;
-                nums[i] = 1;
-            }
-            else 
-            {
-                nums[i] = 2;
+                twos++;
             }
         }
 
+        int i = 0;
+
+        helper(zeros, i, nums, 0);
+
+        helper(ones, i, nums, 1);
+
+        helper(twos, i, nums, 2);
+        
     }
 };
