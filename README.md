@@ -58,3 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Struna1292/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Struna1292/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+# Math
+|  |
+| ------- |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Struna1292/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
