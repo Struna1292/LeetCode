@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/Struna1292/LeetCode/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Struna1292/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Struna1292/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/Struna1292/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Struna1292/LeetCode/tree/master/3451-string-compression-iii) |
 # Greedy
 |  |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/Struna1292/LeetCode/tree/master/1044-find-common-characters) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Struna1292/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Struna1292/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3447-clear-digits](https://github.com/Struna1292/LeetCode/tree/master/3447-clear-digits) |
 # Array
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Struna1292/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/Struna1292/LeetCode/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Struna1292/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 # Math
 |  |
