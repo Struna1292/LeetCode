@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Struna1292/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/Struna1292/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Struna1292/LeetCode/tree/master/0409-longest-palindrome) |
 | [0889-buddy-strings](https://github.com/Struna1292/LeetCode/tree/master/0889-buddy-strings) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Struna1292/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/Struna1292/LeetCode/tree/master/0409-longest-palindrome) |
 | [0889-buddy-strings](https://github.com/Struna1292/LeetCode/tree/master/0889-buddy-strings) |
 | [1044-find-common-characters](https://github.com/Struna1292/LeetCode/tree/master/1044-find-common-characters) |
@@ -66,3 +68,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Struna1292/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+# Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Struna1292/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+# Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Struna1292/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
