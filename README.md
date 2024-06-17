@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Struna1292/LeetCode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Struna1292/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Struna1292/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Struna1292/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Struna1292/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 # Design
 |  |
@@ -80,3 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Struna1292/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Struna1292/LeetCode/tree/master/0648-replace-words) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Struna1292/LeetCode/tree/master/0633-sum-of-square-numbers) |
