@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/Struna1292/LeetCode/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Struna1292/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Struna1292/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Struna1292/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Struna1292/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3430-count-days-without-meetings](https://github.com/Struna1292/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Struna1292/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Simulation
 |  |
 | ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Struna1292/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Struna1292/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Struna1292/LeetCode/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Struna1292/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Struna1292/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Struna1292/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Struna1292/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 # Design
 |  |
@@ -101,3 +104,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Struna1292/LeetCode/tree/master/0119-pascals-triangle-ii) |
+# Combinatorics
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Struna1292/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+# Prefix Sum
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Struna1292/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
