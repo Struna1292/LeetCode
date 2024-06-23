@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Struna1292/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Struna1292/LeetCode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/Struna1292/LeetCode/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/Struna1292/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0889-buddy-strings](https://github.com/Struna1292/LeetCode/tree/master/0889-buddy-strings) |
 | [1044-find-common-characters](https://github.com/Struna1292/LeetCode/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Struna1292/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/Struna1292/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/Struna1292/LeetCode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/Struna1292/LeetCode/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/Struna1292/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0889-buddy-strings](https://github.com/Struna1292/LeetCode/tree/master/0889-buddy-strings) |
 | [1044-find-common-characters](https://github.com/Struna1292/LeetCode/tree/master/1044-find-common-characters) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Struna1292/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Struna1292/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0648-replace-words](https://github.com/Struna1292/LeetCode/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/Struna1292/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0853-most-profit-assigning-work](https://github.com/Struna1292/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1044-find-common-characters](https://github.com/Struna1292/LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Struna1292/LeetCode/tree/master/1137-height-checker) |
@@ -58,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/Struna1292/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0853-most-profit-assigning-work](https://github.com/Struna1292/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1137-height-checker](https://github.com/Struna1292/LeetCode/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Struna1292/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -95,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Struna1292/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Struna1292/LeetCode/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/Struna1292/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 # Binary Search
 |  |
 | ------- |
