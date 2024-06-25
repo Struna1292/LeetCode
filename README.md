@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Struna1292/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Struna1292/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Struna1292/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Struna1292/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Struna1292/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3430-count-days-without-meetings](https://github.com/Struna1292/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Struna1292/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Struna1292/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/Struna1292/LeetCode/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Struna1292/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3430-count-days-without-meetings](https://github.com/Struna1292/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Struna1292/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Bit Manipulation
 |  |
 | ------- |
