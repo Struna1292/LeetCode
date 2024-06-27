@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Bit Manipulation
 |  |
 | ------- |
+| [0899-binary-gap](https://github.com/Struna1292/LeetCode/tree/master/0899-binary-gap) |
 | [1610-xor-operation-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Struna1292/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 # Counting Sort
