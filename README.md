@@ -237,12 +237,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0437-path-sum-iii](https://github.com/Struna1292/LeetCode/tree/master/0437-path-sum-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Struna1292/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0437-path-sum-iii](https://github.com/Struna1292/LeetCode/tree/master/0437-path-sum-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Struna1292/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0437-path-sum-iii](https://github.com/Struna1292/LeetCode/tree/master/0437-path-sum-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
