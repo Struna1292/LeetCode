@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1720-crawler-log-folder](https://github.com/Struna1292/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Struna1292/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Struna1292/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2502-sort-the-people](https://github.com/Struna1292/LeetCode/tree/master/2502-sort-the-people) |
 | [3468-find-the-encrypted-string](https://github.com/Struna1292/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Struna1292/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Struna1292/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Struna1292/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Struna1292/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Struna1292/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Struna1292/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Linked List
 |  |
@@ -298,4 +300,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Struna1292/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
