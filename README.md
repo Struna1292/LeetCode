@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Struna1292/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Struna1292/LeetCode/tree/master/2846-robot-collisions) |
 | [3463-alternating-groups-i](https://github.com/Struna1292/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Struna1292/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/Struna1292/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Struna1292/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Struna1292/LeetCode/tree/master/2645-pass-the-pillow) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Struna1292/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
 | ------- |
