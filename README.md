@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/Struna1292/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Struna1292/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Struna1292/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Struna1292/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Struna1292/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Struna1292/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Struna1292/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Struna1292/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Struna1292/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Struna1292/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Struna1292/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Struna1292/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Struna1292/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Struna1292/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Struna1292/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Struna1292/LeetCode/tree/master/2502-sort-the-people) |
