@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3463-alternating-groups-i](https://github.com/Struna1292/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Struna1292/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3516-design-neighbor-sum-service](https://github.com/Struna1292/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+| [3519-find-the-number-of-winning-players](https://github.com/Struna1292/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Struna1292/LeetCode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/Struna1292/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+| [3519-find-the-number-of-winning-players](https://github.com/Struna1292/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 ## String
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3519-find-the-number-of-winning-players](https://github.com/Struna1292/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 ## Graph
 |  |
 | ------- |
