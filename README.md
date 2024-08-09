@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Struna1292/LeetCode/tree/master/0437-path-sum-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Struna1292/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Struna1292/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Struna1292/LeetCode/tree/master/0437-path-sum-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Struna1292/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Struna1292/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Struna1292/LeetCode/tree/master/0437-path-sum-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Struna1292/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Struna1292/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -358,4 +362,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3516-design-neighbor-sum-service](https://github.com/Struna1292/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Struna1292/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
