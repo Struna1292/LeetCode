@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Struna1292/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Struna1292/LeetCode/tree/master/0036-valid-sudoku) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Struna1292/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Struna1292/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Struna1292/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Struna1292/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Struna1292/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Struna1292/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Struna1292/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
