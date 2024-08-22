@@ -1,37 +1,29 @@
 class Solution {
 public:
     int findComplement(int num) {
-        if (num == 0)
+
+        string numString = bitset<32>(num).to_string();
+        
+        int i = 0;
+
+        while (numString[i] == '0' && i < 32)
         {
-            return 1;
+            i++;
         }
 
-        string binNum;
-        while (num > 0)
+        for (; i < 32; i++)
         {
-            if ((num & 1) == 1)
+            if (numString[i] == '0')
             {
-                binNum.push_back('1');
+                numString[i] = '1';
             }
             else
             {
-                binNum.push_back('0');
+                numString[i] = '0';
             }
-            num >>= 1;
         }
 
-        int output = 0;
-        for (int i = binNum.length()-1; i >= 0; i--)
-        {
-            if (binNum[i] == '0')
-            {
-                output |= 1;
-            }
-            
-            if (i != 0)
-                output <<= 1;
-        }
-
+        int output = bitset<32>(numString).to_ulong(); 
 
         return output;
     }
