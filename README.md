@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Struna1292/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Struna1292/LeetCode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Struna1292/LeetCode/tree/master/0036-valid-sudoku) |
+| [0078-subsets](https://github.com/Struna1292/LeetCode/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Struna1292/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Struna1292/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Struna1292/LeetCode/tree/master/0078-subsets) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Struna1292/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0476-number-complement](https://github.com/Struna1292/LeetCode/tree/master/0476-number-complement) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Struna1292/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -404,4 +406,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Struna1292/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Struna1292/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
