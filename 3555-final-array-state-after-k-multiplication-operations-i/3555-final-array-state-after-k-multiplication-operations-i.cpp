@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
         
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq; // value and index
 
         for (int i = 0; i < nums.size(); i++)
         {
