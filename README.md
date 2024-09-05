@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3468-find-the-encrypted-string](https://github.com/Struna1292/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Struna1292/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3533-snake-in-matrix](https://github.com/Struna1292/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Struna1292/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Counting
 |  |
 | ------- |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Struna1292/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Struna1292/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Struna1292/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Struna1292/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Recursion
 |  |
 | ------- |
