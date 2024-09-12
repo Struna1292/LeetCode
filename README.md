@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Struna1292/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Struna1292/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Struna1292/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Struna1292/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Struna1292/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Struna1292/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Struna1292/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Struna1292/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Struna1292/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Struna1292/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Struna1292/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1720-crawler-log-folder](https://github.com/Struna1292/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Struna1292/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Struna1292/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3519-find-the-number-of-winning-players](https://github.com/Struna1292/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
@@ -413,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Struna1292/LeetCode/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Struna1292/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0476-number-complement](https://github.com/Struna1292/LeetCode/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Struna1292/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Struna1292/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Struna1292/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
