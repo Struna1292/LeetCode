@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3468-find-the-encrypted-string](https://github.com/Struna1292/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Struna1292/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3533-snake-in-matrix](https://github.com/Struna1292/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3540-hash-divided-string](https://github.com/Struna1292/LeetCode/tree/master/3540-hash-divided-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Struna1292/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Struna1292/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Counting
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/Struna1292/LeetCode/tree/master/2846-robot-collisions) |
 | [3516-design-neighbor-sum-service](https://github.com/Struna1292/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/Struna1292/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3540-hash-divided-string](https://github.com/Struna1292/LeetCode/tree/master/3540-hash-divided-string) |
 ## Math
 |  |
 | ------- |
