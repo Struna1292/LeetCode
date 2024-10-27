@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0890-lemonade-change](https://github.com/Struna1292/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Struna1292/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0924-fair-candy-swap](https://github.com/Struna1292/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1002-maximum-width-ramp](https://github.com/Struna1292/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Struna1292/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0906-walking-robot-simulation](https://github.com/Struna1292/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Struna1292/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0924-fair-candy-swap](https://github.com/Struna1292/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Struna1292/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Struna1292/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Struna1292/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Struna1292/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Struna1292/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0924-fair-candy-swap](https://github.com/Struna1292/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Struna1292/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Struna1292/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Struna1292/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Struna1292/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0924-fair-candy-swap](https://github.com/Struna1292/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1256-rank-transform-of-an-array](https://github.com/Struna1292/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Struna1292/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
