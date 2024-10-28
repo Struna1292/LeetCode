@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Struna1292/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Struna1292/LeetCode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Struna1292/LeetCode/tree/master/0036-valid-sudoku) |
+| [0047-permutations-ii](https://github.com/Struna1292/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Struna1292/LeetCode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Struna1292/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Struna1292/LeetCode/tree/master/0090-subsets-ii) |
@@ -579,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Struna1292/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Struna1292/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Struna1292/LeetCode/tree/master/0090-subsets-ii) |
 ## Number Theory
