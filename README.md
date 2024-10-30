@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Struna1292/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Struna1292/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Struna1292/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Struna1292/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Struna1292/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Struna1292/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Struna1292/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Struna1292/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Struna1292/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Struna1292/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2502-sort-the-people](https://github.com/Struna1292/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Struna1292/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/Struna1292/LeetCode/tree/master/2846-robot-collisions) |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Struna1292/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Struna1292/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Struna1292/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Struna1292/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Struna1292/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3195-separate-black-and-white-balls](https://github.com/Struna1292/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
