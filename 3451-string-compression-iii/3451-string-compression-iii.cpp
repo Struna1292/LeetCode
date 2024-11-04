@@ -1,29 +1,49 @@
 class Solution {
 public:
     string compressedString(string word) {
+        string output;
 
         int counter = 1;
-        char prev = word[0];
-
-        string output;
+        int prev = word[0];
 
         for (int i = 1; i < word.length(); i++)
         {
-            if (word[i] != prev || counter == 9)
+            if (word[i] == prev)
             {
-                output.push_back('0'+counter);
-                output.push_back(prev);
+                counter++;
+            }
+            else
+            {
+                while (counter > 9)
+                {
+                    counter -= 9;
+                    output.push_back('9');
+                    output.push_back(prev);
+                }
+
+                if (counter > 0)
+                {
+                    output.push_back('0'+counter);
+                    output.push_back(prev);
+                }
 
                 counter = 1;
                 prev = word[i];
             }
-            else
-            {
-                counter++;
-            }
         }
-        output.push_back('0'+counter);
-        output.push_back(prev);
+
+        while (counter > 9)
+        {
+            counter -= 9;
+            output.push_back('9');
+            output.push_back(prev);
+        }
+
+        if (counter > 0)
+        {
+            output.push_back('0'+counter);
+            output.push_back(prev);
+        }
 
         return output;
     }
