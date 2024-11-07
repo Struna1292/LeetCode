@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/Struna1292/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Struna1292/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Struna1292/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Struna1292/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Struna1292/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Struna1292/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2486-most-frequent-even-element](https://github.com/Struna1292/LeetCode/tree/master/2486-most-frequent-even-element) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/Struna1292/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Struna1292/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Struna1292/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Struna1292/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2486-most-frequent-even-element](https://github.com/Struna1292/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Struna1292/LeetCode/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/Struna1292/LeetCode/tree/master/2547-odd-string-difference) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Struna1292/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2486-most-frequent-even-element](https://github.com/Struna1292/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3519-find-the-number-of-winning-players](https://github.com/Struna1292/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
@@ -540,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/Struna1292/LeetCode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Struna1292/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Struna1292/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Struna1292/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Struna1292/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Struna1292/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
