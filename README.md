@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Struna1292/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Struna1292/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3567-convert-date-to-binary](https://github.com/Struna1292/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3636-check-balanced-string](https://github.com/Struna1292/LeetCode/tree/master/3636-check-balanced-string) |
 ## Counting
 |  |
 | ------- |
