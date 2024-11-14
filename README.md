@@ -421,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-find-the-key-of-the-numbers](https://github.com/Struna1292/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Struna1292/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Struna1292/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Struna1292/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -589,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Struna1292/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Struna1292/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Struna1292/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Struna1292/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Rolling Hash
 |  |
 | ------- |
