@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/Struna1292/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Struna1292/LeetCode/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/Struna1292/LeetCode/tree/master/2547-odd-string-difference) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Struna1292/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Struna1292/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2716-prime-subtraction-operation](https://github.com/Struna1292/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Struna1292/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/Struna1292/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Struna1292/LeetCode/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/Struna1292/LeetCode/tree/master/2547-odd-string-difference) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Struna1292/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Struna1292/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Struna1292/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Struna1292/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Struna1292/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Struna1292/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Struna1292/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/Struna1292/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Struna1292/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
