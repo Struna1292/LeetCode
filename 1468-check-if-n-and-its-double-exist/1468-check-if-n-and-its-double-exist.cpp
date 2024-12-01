@@ -31,13 +31,10 @@ public:
 
         for (int i = 0; i < arr.size(); i++)
         {
-            if (arr[i] % 2 == 0)
+            int index = binarySearch(arr, (arr[i]*2));
+            if (index != -1 && index != i)
             {
-                int index = binarySearch(arr, (arr[i]/2));
-                if (index != -1 && index != i)
-                {
-                    return true;
-                }
+                return true;
             }
         }
 
