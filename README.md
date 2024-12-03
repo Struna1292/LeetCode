@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/Struna1292/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Struna1292/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2232-adding-spaces-to-a-string](https://github.com/Struna1292/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Struna1292/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Struna1292/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Struna1292/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Struna1292/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Struna1292/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Struna1292/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2502-sort-the-people](https://github.com/Struna1292/LeetCode/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/Struna1292/LeetCode/tree/master/2547-odd-string-difference) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Struna1292/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Struna1292/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1972-rotating-the-box](https://github.com/Struna1292/LeetCode/tree/master/1972-rotating-the-box) |
+| [2232-adding-spaces-to-a-string](https://github.com/Struna1292/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Struna1292/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/Struna1292/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Struna1292/LeetCode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -411,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Struna1292/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Struna1292/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Struna1292/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Struna1292/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Struna1292/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Struna1292/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Struna1292/LeetCode/tree/master/2411-spiral-matrix-iv) |
