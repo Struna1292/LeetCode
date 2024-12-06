@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2547-odd-string-difference](https://github.com/Struna1292/LeetCode/tree/master/2547-odd-string-difference) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Struna1292/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Struna1292/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Struna1292/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Struna1292/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Struna1292/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Struna1292/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2547-odd-string-difference](https://github.com/Struna1292/LeetCode/tree/master/2547-odd-string-difference) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Struna1292/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Struna1292/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Struna1292/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Struna1292/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3516-design-neighbor-sum-service](https://github.com/Struna1292/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Struna1292/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Struna1292/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Struna1292/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Struna1292/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Struna1292/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
@@ -376,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Struna1292/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2502-sort-the-people](https://github.com/Struna1292/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Struna1292/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Struna1292/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2846-robot-collisions](https://github.com/Struna1292/LeetCode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Struna1292/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -393,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/Struna1292/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Struna1292/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Struna1292/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Struna1292/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Struna1292/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Struna1292/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
