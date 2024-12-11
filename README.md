@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/Struna1292/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Struna1292/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Struna1292/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Struna1292/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Struna1292/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0890-lemonade-change](https://github.com/Struna1292/LeetCode/tree/master/0890-lemonade-change) |
