@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Struna1292/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Struna1292/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Struna1292/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Struna1292/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Struna1292/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Struna1292/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Struna1292/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Struna1292/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -551,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Struna1292/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -595,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Struna1292/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Struna1292/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -709,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Struna1292/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Struna1292/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Backtracking
 |  |
 | ------- |
