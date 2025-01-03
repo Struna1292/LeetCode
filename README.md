@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2339-k-divisible-elements-subarrays](https://github.com/Struna1292/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Struna1292/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Struna1292/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/Struna1292/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Struna1292/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Struna1292/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2486-most-frequent-even-element](https://github.com/Struna1292/LeetCode/tree/master/2486-most-frequent-even-element) |
@@ -634,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Struna1292/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/Struna1292/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Struna1292/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/Struna1292/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Struna1292/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Breadth-First Search
 |  |
