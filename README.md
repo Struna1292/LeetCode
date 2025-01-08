@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2844-sum-of-squares-of-special-elements](https://github.com/Struna1292/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2846-robot-collisions](https://github.com/Struna1292/LeetCode/tree/master/2846-robot-collisions) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Struna1292/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Struna1292/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Struna1292/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/Struna1292/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Struna1292/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/Struna1292/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Struna1292/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Struna1292/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Struna1292/LeetCode/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Struna1292/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/Struna1292/LeetCode/tree/master/3468-find-the-encrypted-string) |
@@ -688,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/Struna1292/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Struna1292/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Struna1292/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -718,11 +721,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2339-k-divisible-elements-subarrays](https://github.com/Struna1292/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Struna1292/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Struna1292/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Struna1292/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Struna1292/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Design
 |  |
 | ------- |
@@ -759,4 +764,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/Struna1292/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Struna1292/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Struna1292/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
