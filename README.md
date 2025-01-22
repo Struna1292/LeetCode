@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/Struna1292/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Struna1292/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Struna1292/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0749-shortest-completing-word](https://github.com/Struna1292/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/Struna1292/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0890-lemonade-change](https://github.com/Struna1292/LeetCode/tree/master/0890-lemonade-change) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/Struna1292/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Struna1292/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Struna1292/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0749-shortest-completing-word](https://github.com/Struna1292/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0906-walking-robot-simulation](https://github.com/Struna1292/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Struna1292/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Struna1292/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Struna1292/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Struna1292/LeetCode/tree/master/0567-permutation-in-string) |
+| [0749-shortest-completing-word](https://github.com/Struna1292/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0812-rotate-string](https://github.com/Struna1292/LeetCode/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Struna1292/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
