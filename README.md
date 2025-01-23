@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Struna1292/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Struna1292/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Struna1292/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Struna1292/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Struna1292/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Struna1292/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Struna1292/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -644,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
@@ -653,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Struna1292/LeetCode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Struna1292/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0777-toeplitz-matrix](https://github.com/Struna1292/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Struna1292/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Struna1292/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/Struna1292/LeetCode/tree/master/1972-rotating-the-box) |
@@ -689,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Struna1292/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Struna1292/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Struna1292/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -804,4 +809,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Struna1292/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
