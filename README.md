@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/Struna1292/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/Struna1292/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0978-valid-mountain-array](https://github.com/Struna1292/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Struna1292/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/Struna1292/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1168-duplicate-zeros](https://github.com/Struna1292/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0924-fair-candy-swap](https://github.com/Struna1292/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0952-word-subsets](https://github.com/Struna1292/LeetCode/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/Struna1292/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Struna1292/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Struna1292/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Struna1292/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
