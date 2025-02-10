@@ -2,24 +2,33 @@ class Solution {
 public:
     string clearDigits(string s) {
         
-        string output;
+        stack<char> st;
 
-        int counter = 0;
-
-        for (int i = s.length()-1; i >= 0; i--)
+        for (int i = 0; i < s.length(); i++)
         {
             if (s[i] >= '0' && s[i] <= '9')
             {
-                counter++;
-            }
-            else if (counter > 0)
-            {
-                counter--;
+                if (st.empty())
+                {
+                    st.push(s[i]);
+                }
+                else
+                {
+                    st.pop();
+                }
             }
             else
             {
-                output.push_back(s[i]);
+                st.push(s[i]);
             }
+        }
+
+        string output;
+
+        while (!st.empty())
+        {
+            output.push_back(st.top());
+            st.pop();
         }
 
         int i = 0;
