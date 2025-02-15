@@ -558,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Struna1292/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0944-smallest-range-i](https://github.com/Struna1292/LeetCode/tree/master/0944-smallest-range-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Struna1292/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Struna1292/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Struna1292/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Struna1292/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/Struna1292/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
