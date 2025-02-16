@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1168-duplicate-zeros](https://github.com/Struna1292/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/Struna1292/LeetCode/tree/master/1217-relative-sort-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Struna1292/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Struna1292/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Struna1292/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/Struna1292/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Struna1292/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/Struna1292/LeetCode/tree/master/1217-relative-sort-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Struna1292/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Struna1292/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Struna1292/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/Struna1292/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Struna1292/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Struna1292/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Struna1292/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Struna1292/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Struna1292/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
