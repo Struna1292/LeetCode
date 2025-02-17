@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void helper(string& tiles, vector<bool> used, set<string>& st, string curr)
+    void helper(string& tiles, vector<bool>& used, set<string>& st, string curr)
     {
         for (int i = 0; i < tiles.length(); i++)
         {
