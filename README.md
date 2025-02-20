@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Struna1292/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Struna1292/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2089-maximum-matrix-sum](https://github.com/Struna1292/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/Struna1292/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Struna1292/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Struna1292/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Struna1292/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Struna1292/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/Struna1292/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Struna1292/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Struna1292/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Struna1292/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Struna1292/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Struna1292/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2107-find-unique-binary-string](https://github.com/Struna1292/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Struna1292/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Struna1292/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -857,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Struna1292/LeetCode/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Struna1292/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Struna1292/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/Struna1292/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Struna1292/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Number Theory
 |  |
