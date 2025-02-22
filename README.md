@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/Struna1292/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Struna1292/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Struna1292/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Struna1292/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Struna1292/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Struna1292/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/Struna1292/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Struna1292/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Struna1292/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Struna1292/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Struna1292/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/Struna1292/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Struna1292/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1642-water-bottles](https://github.com/Struna1292/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Struna1292/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Struna1292/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -728,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Struna1292/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0777-toeplitz-matrix](https://github.com/Struna1292/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Struna1292/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Struna1292/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Struna1292/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/Struna1292/LeetCode/tree/master/1972-rotating-the-box) |
