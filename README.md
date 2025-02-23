@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0965-unique-email-addresses](https://github.com/Struna1292/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1156-occurrences-after-bigram](https://github.com/Struna1292/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1160-letter-tile-possibilities](https://github.com/Struna1292/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1260-day-of-the-year](https://github.com/Struna1292/LeetCode/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Struna1292/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Struna1292/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Struna1292/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -573,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/Struna1292/LeetCode/tree/master/0670-maximum-swap) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Struna1292/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0944-smallest-range-i](https://github.com/Struna1292/LeetCode/tree/master/0944-smallest-range-i) |
+| [1260-day-of-the-year](https://github.com/Struna1292/LeetCode/tree/master/1260-day-of-the-year) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Struna1292/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Struna1292/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Struna1292/LeetCode/tree/master/1642-water-bottles) |
