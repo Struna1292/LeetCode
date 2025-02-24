@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Struna1292/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Struna1292/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Struna1292/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1306-minimum-absolute-difference](https://github.com/Struna1292/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1364-tuple-with-same-product](https://github.com/Struna1292/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/Struna1292/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1217-relative-sort-array](https://github.com/Struna1292/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Struna1292/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/Struna1292/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Struna1292/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Struna1292/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
