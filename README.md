@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Struna1292/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Struna1292/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Struna1292/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Struna1292/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Struna1292/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Struna1292/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Struna1292/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Struna1292/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -610,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Struna1292/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/Struna1292/LeetCode/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/Struna1292/LeetCode/tree/master/1642-water-bottles) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Struna1292/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Struna1292/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Struna1292/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/Struna1292/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
