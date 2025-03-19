@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/Struna1292/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Struna1292/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/Struna1292/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Struna1292/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Struna1292/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Struna1292/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Struna1292/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -652,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Struna1292/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Struna1292/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
 | ------- |
@@ -747,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Struna1292/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Struna1292/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/Struna1292/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Struna1292/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Struna1292/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Struna1292/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Struna1292/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -814,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Struna1292/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Struna1292/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Struna1292/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Struna1292/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Struna1292/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Struna1292/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Breadth-First Search
@@ -858,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Struna1292/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Struna1292/LeetCode/tree/master/3394-minimum-array-end) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Struna1292/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Struna1292/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Struna1292/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Struna1292/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Struna1292/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
