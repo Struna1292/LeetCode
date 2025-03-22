@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1542-consecutive-characters](https://github.com/Struna1292/LeetCode/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Struna1292/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1660-thousand-separator](https://github.com/Struna1292/LeetCode/tree/master/1660-thousand-separator) |
+| [1714-rearrange-spaces-between-words](https://github.com/Struna1292/LeetCode/tree/master/1714-rearrange-spaces-between-words) |
 | [1720-crawler-log-folder](https://github.com/Struna1292/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1812-reformat-phone-number](https://github.com/Struna1292/LeetCode/tree/master/1812-reformat-phone-number) |
