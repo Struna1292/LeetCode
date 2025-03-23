@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/Struna1292/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Struna1292/LeetCode/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Struna1292/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Struna1292/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2547-odd-string-difference](https://github.com/Struna1292/LeetCode/tree/master/2547-odd-string-difference) |
 | [2551-apply-operations-to-an-array](https://github.com/Struna1292/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Struna1292/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -631,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Struna1292/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Struna1292/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/Struna1292/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Struna1292/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Struna1292/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Struna1292/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Struna1292/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
