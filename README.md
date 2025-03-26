@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Struna1292/LeetCode/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/Struna1292/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
+| [1839-decode-xored-array](https://github.com/Struna1292/LeetCode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Struna1292/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Struna1292/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Struna1292/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -859,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0693-binary-number-with-alternating-bits](https://github.com/Struna1292/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Struna1292/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1839-decode-xored-array](https://github.com/Struna1292/LeetCode/tree/master/1839-decode-xored-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Struna1292/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Struna1292/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Struna1292/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
