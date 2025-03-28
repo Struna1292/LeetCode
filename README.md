@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3723-sum-of-good-numbers](https://github.com/Struna1292/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Struna1292/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/Struna1292/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Struna1292/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Struna1292/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Struna1292/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Struna1292/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Struna1292/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Struna1292/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/Struna1292/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Struna1292/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Struna1292/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
 | ------- |
