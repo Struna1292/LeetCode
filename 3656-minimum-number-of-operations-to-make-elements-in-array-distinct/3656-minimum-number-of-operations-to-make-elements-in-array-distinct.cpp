@@ -1,58 +1,42 @@
 class Solution {
 public:
-    bool isDistinct(map<int,int>& mp)
-    {
-        for (auto itr = mp.begin(); itr != mp.end(); itr++)
-        {
-            if (itr->second >= 2)
-            {
-                return false;
-            }
-        }
-
-        return true;
-    }
 
     int minimumOperations(vector<int>& nums) {
         
         map<int,int> mp;
 
-        for (int i = 0; i < nums.size(); i++)
+        int i = nums.size()-1;
+
+        if (nums.size() % 3 == 1)
         {
             mp[nums[i]]++;
+            i--;
         }
-
-        if (isDistinct(mp))
+        else if (nums.size() % 3 == 2)
         {
-            return 0;
-        }
+            mp[nums[i]]++;
+            i--;
+            mp[nums[i]]++;
 
-        int output = 0;
-
-        for (int i = 0; i < nums.size(); i+=3)
-        {
-            if (nums.size()-i >= 3)
+            if (mp[nums[i]] > 1)
             {
-                for (int j = 0; j < 3; j++)
+                return (nums.size()/3)+1;
+            }
+            i--;
+        }
+
+        for (; i >= 0; i-=3)
+        {
+            for (int j = i; j > i-3; j--)
+            {
+                mp[nums[j]]++;
+                if (mp[nums[j]] > 1)
                 {
-                    mp[nums[i+j]]--;
+                    return (i+1)/3;
                 }
             }
-            else
-            {
-                for (int j = 0; j < nums.size()-i; j++)
-                {
-                    mp[nums[i+j]]--;
-                }
-            }
-            output++;
-
-            if (isDistinct(mp))
-            {
-                break;
-            }
         }
 
-        return output;
+        return 0;
     }
 };
