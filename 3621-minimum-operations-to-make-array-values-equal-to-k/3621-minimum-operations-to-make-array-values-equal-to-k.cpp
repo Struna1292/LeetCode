@@ -2,20 +2,24 @@ class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
         
-        sort(begin(nums), end(nums));
+        set<int> st;
 
-        nums.erase(unique(begin(nums), end(nums)), end(nums));
-
-        int i = 0;
-        if (nums[i] == k)
+        for (int n : nums)
         {
-            i++;
+            st.insert(n);
         }
-        else if (nums[i] < k)
+
+        auto itr = st.begin();
+
+        if (*itr == k)
+        {
+            return st.size()-1;
+        }
+        else if (*itr < k)
         {
             return -1;
         }
 
-        return nums.size()-i;
+        return st.size();
     }
 };
