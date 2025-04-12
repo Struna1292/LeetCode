@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Struna1292/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3723-sum-of-good-numbers](https://github.com/Struna1292/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Struna1292/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3778-transform-array-by-parity](https://github.com/Struna1292/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Struna1292/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Struna1292/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Struna1292/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Struna1292/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Struna1292/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Struna1292/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -602,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/Struna1292/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Struna1292/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Struna1292/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -638,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3651-transformed-array](https://github.com/Struna1292/LeetCode/tree/master/3651-transformed-array) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Struna1292/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Struna1292/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Struna1292/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Math
@@ -937,6 +941,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Struna1292/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Struna1292/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1026,6 +1031,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Struna1292/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1039,4 +1045,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Struna1292/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
