@@ -664,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Struna1292/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Struna1292/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Struna1292/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Struna1292/LeetCode/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Struna1292/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Struna1292/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Struna1292/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -689,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Struna1292/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Struna1292/LeetCode/tree/master/2050-count-good-numbers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Struna1292/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Struna1292/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
