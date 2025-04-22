@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3778-transform-array-by-parity](https://github.com/Struna1292/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Struna1292/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Struna1292/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Struna1292/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Struna1292/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Struna1292/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Struna1292/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Struna1292/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Struna1292/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -708,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-count-good-numbers](https://github.com/Struna1292/LeetCode/tree/master/2050-count-good-numbers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Struna1292/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Struna1292/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Struna1292/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -983,6 +986,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2998-count-symmetric-integers](https://github.com/Struna1292/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Struna1292/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Struna1292/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Struna1292/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
