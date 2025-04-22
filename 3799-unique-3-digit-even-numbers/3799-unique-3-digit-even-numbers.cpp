@@ -41,8 +41,6 @@ public:
 
             int num = (*itr)[0] * 100 + (*itr)[1] * 10 + (*itr)[2];
 
-            cout << num << endl;
-
             if (num % 2 == 0)
             {
                 output++;
