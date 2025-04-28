@@ -1086,4 +1086,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/Struna1292/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Struna1292/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/Struna1292/LeetCode/tree/master/0577-employee-bonus) |
+| [1179-game-play-analysis-i](https://github.com/Struna1292/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
