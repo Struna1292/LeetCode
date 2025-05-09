@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT tab.customer_number FROM (SELECT o.customer_number, COUNT(o.order_number) FROM orders o GROUP BY o.customer_number ORDER BY COUNT(o.order_number) DESC LIMIT 1) as tab
