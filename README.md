@@ -1097,6 +1097,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/Struna1292/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Struna1292/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/Struna1292/LeetCode/tree/master/1179-game-play-analysis-i) |
+| [2041-the-latest-login-in-2020](https://github.com/Struna1292/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/Struna1292/LeetCode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Struna1292/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
