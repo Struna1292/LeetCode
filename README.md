@@ -589,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/Struna1292/LeetCode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Struna1292/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3778-transform-array-by-parity](https://github.com/Struna1292/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3859-maximum-product-of-two-digits](https://github.com/Struna1292/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Greedy
 |  |
@@ -719,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3817-maximum-containers-on-a-ship](https://github.com/Struna1292/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Struna1292/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Struna1292/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3859-maximum-product-of-two-digits](https://github.com/Struna1292/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
