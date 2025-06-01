@@ -1127,6 +1127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1135-customers-who-bought-all-products](https://github.com/Struna1292/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/Struna1292/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/Struna1292/LeetCode/tree/master/1179-game-play-analysis-i) |
+| [1258-article-views-i](https://github.com/Struna1292/LeetCode/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/Struna1292/LeetCode/tree/master/1268-market-analysis-i) |
 | [1625-group-sold-products-by-the-date](https://github.com/Struna1292/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/Struna1292/LeetCode/tree/master/1734-bank-account-summary-ii) |
