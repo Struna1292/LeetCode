@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/Struna1292/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Struna1292/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/Struna1292/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1078-remove-outermost-parentheses](https://github.com/Struna1292/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1156-occurrences-after-bigram](https://github.com/Struna1292/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1160-letter-tile-possibilities](https://github.com/Struna1292/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1260-day-of-the-year](https://github.com/Struna1292/LeetCode/tree/master/1260-day-of-the-year) |
@@ -760,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Struna1292/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Struna1292/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1078-remove-outermost-parentheses](https://github.com/Struna1292/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Struna1292/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Struna1292/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Struna1292/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
