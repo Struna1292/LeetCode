@@ -4,23 +4,20 @@ public:
         
         map<int,int> mp;
 
-        for (int i = 0; i < nums.size(); i++)
-        {
+        for (int i = 0; i < nums.size(); i++) {
             mp[nums[i]]++;
         }
 
-        auto prev = mp.begin();
         int output = 0;
-        for (auto itr = mp.begin(); itr != mp.end(); itr++)
-        {
-            if (itr != prev)
-            {
-                if (prev->first+1 == itr->first && prev->second+itr->second > output)
-                {
-                    output = prev->second+itr->second;
-                }
+        int prevNum = -1;
+        int prevCount = -1;
+
+        for (auto itr = mp.begin(); itr != mp.end(); itr++) {
+            if ((itr->first - prevNum) == 1 && (itr->second + prevCount) > output) {
+                output = itr->second + prevCount;
             }
-            prev = itr;
+            prevNum = itr->first;
+            prevCount = itr->second;
         }
 
         return output;
