@@ -11,36 +11,15 @@
  */
 class Solution {
 public:
-    
-    void inOrder(TreeNode* root, vector<int>& nums, bool& output)
-    {
-        if (root == nullptr || !output)
-        {
-            return;
+    bool isValidBST(TreeNode* root, long leftMax = INT_MIN, long rightMax = INT_MAX) {
+        if (root == nullptr) {
+            return true;
         }
 
-
-        inOrder(root->left, nums, output);
-
-        if (nums.size() >= 1 && root->val <= nums[nums.size()-1])
-        {
-            output = false;
-            return;
+        if (root->val < leftMax || root->val > rightMax) {
+            return false;
         }
-        
-        nums.push_back(root->val);
 
-        inOrder(root->right, nums, output);
-    }
-
-    bool isValidBST(TreeNode* root) {
-
-        bool output = true;
-
-        vector<int> nums;
-
-        inOrder(root, nums, output);
-        
-        return output;
+        return isValidBST(root->left, leftMax, (long)root->val-1) && isValidBST(root->right, (long)root->val+1, rightMax);
     }
 };
