@@ -547,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Struna1292/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1916-find-center-of-star-graph](https://github.com/Struna1292/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Struna1292/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Two Pointers
@@ -952,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Struna1292/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Struna1292/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0813-all-paths-from-source-to-target](https://github.com/Struna1292/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -1016,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Struna1292/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Struna1292/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0813-all-paths-from-source-to-target](https://github.com/Struna1292/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1005-univalued-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Struna1292/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1147,6 +1150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0077-combinations](https://github.com/Struna1292/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Struna1292/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Struna1292/LeetCode/tree/master/0090-subsets-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/Struna1292/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/Struna1292/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Struna1292/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Struna1292/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
