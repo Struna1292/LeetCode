@@ -552,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/Struna1292/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1916-find-center-of-star-graph](https://github.com/Struna1292/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Struna1292/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Struna1292/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1086,6 +1087,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/Struna1292/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/Struna1292/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Struna1292/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Struna1292/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2681-put-marbles-in-bags](https://github.com/Struna1292/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Struna1292/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Struna1292/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1133,6 +1135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Struna1292/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/Struna1292/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Struna1292/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3516-design-neighbor-sum-service](https://github.com/Struna1292/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Binary Search Tree
 |  |
@@ -1263,4 +1266,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Struna1292/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Struna1292/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Shortest Path
+|  |
+| ------- |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Struna1292/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
