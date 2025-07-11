@@ -552,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/Struna1292/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1916-find-center-of-star-graph](https://github.com/Struna1292/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Struna1292/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Struna1292/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Struna1292/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Two Pointers
 |  |
@@ -970,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Struna1292/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Struna1292/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Struna1292/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Matrix
 |  |
@@ -1035,6 +1037,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2121-find-if-path-exists-in-graph](https://github.com/Struna1292/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Struna1292/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Struna1292/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Struna1292/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Bit Manipulation
 |  |
@@ -1194,6 +1197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Struna1292/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Struna1292/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Ordered Set
 |  |
 | ------- |
