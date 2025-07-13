@@ -44,6 +44,10 @@ public:
             int currVertex = currEdge.to;
             int currTime = currEdge.start;
 
+            if (currVertex == n-1) {
+                return currTime;
+            }
+
             if (currTime > dists[currVertex]) { // if we already found quicker way to this vertex 
                 continue;
             }
@@ -63,6 +67,6 @@ public:
         } 
 
         
-        return (dists[n-1] == INT_MAX) ? -1 : dists[n-1];
+        return -1;
     }   
 };
