@@ -557,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2121-find-if-path-exists-in-graph](https://github.com/Struna1292/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Struna1292/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Struna1292/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Struna1292/LeetCode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1101,6 +1102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Struna1292/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Struna1292/LeetCode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1283,4 +1285,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Struna1292/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Struna1292/LeetCode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 <!---LeetCode Topics End-->
