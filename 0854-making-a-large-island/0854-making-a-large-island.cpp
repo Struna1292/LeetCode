@@ -50,7 +50,7 @@ public:
         // iterate again but this time look only at empty space (0)
         // check all 4 directions and lookup which islands we can connect
 
-        unordered_map<int, int> mp; // mark, size
+        unordered_map<int, int> mp(grid.size()*grid.size()); // mark, size
         int currMark = 2;
         int largestIsland = 0;
 
