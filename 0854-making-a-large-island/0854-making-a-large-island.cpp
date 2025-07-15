@@ -18,7 +18,7 @@ public:
         return size;
     }
 
-    int sizeAfterSwap(int i, int j, vector<vector<int>>& grid, unordered_map<int, int>& mp) {
+    int sizeAfterSwap(int i, int j, vector<vector<int>>& grid, vector<int>& mp) {
         unordered_set<int> islands;
 
         int curr = 1;
@@ -50,7 +50,7 @@ public:
         // iterate again but this time look only at empty space (0)
         // check all 4 directions and lookup which islands we can connect
 
-        unordered_map<int, int> mp(grid.size()*grid.size()); // mark, size
+        vector<int> mp(((grid.size()*grid.size())/2)+3); // maximum possible amount of islands is (grid.size()*grid.size())/2
         int currMark = 2;
         int largestIsland = 0;
 
