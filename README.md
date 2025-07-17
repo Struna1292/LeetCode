@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Struna1292/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Struna1292/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Struna1292/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Struna1292/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Struna1292/LeetCode/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/Struna1292/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Struna1292/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/Struna1292/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Struna1292/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Struna1292/LeetCode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Struna1292/LeetCode/tree/master/0079-word-search) |
 | [0482-license-key-formatting](https://github.com/Struna1292/LeetCode/tree/master/0482-license-key-formatting) |
 | [0539-minimum-time-difference](https://github.com/Struna1292/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Struna1292/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -948,6 +950,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Struna1292/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/0110-balanced-binary-tree) |
@@ -996,6 +999,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Struna1292/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Struna1292/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Struna1292/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Struna1292/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Struna1292/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Struna1292/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Struna1292/LeetCode/tree/master/0695-max-area-of-island) |
@@ -1193,6 +1197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Struna1292/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Struna1292/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Struna1292/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Struna1292/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Struna1292/LeetCode/tree/master/0090-subsets-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Struna1292/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/Struna1292/LeetCode/tree/master/1022-unique-paths-iii) |
