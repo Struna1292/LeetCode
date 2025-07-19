@@ -873,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Struna1292/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0832-binary-tree-pruning](https://github.com/Struna1292/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -913,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Struna1292/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0832-binary-tree-pruning](https://github.com/Struna1292/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -980,6 +982,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Struna1292/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0813-all-paths-from-source-to-target](https://github.com/Struna1292/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [0832-binary-tree-pruning](https://github.com/Struna1292/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0854-making-a-large-island](https://github.com/Struna1292/LeetCode/tree/master/0854-making-a-large-island) |
 | [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1005-univalued-binary-tree) |
