@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Struna1292/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Struna1292/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/Struna1292/LeetCode/tree/master/0463-island-perimeter) |
+| [0502-ipo](https://github.com/Struna1292/LeetCode/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/Struna1292/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/Struna1292/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Struna1292/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -631,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Struna1292/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Struna1292/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/Struna1292/LeetCode/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/Struna1292/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Struna1292/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Struna1292/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -675,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Struna1292/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0502-ipo](https://github.com/Struna1292/LeetCode/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/Struna1292/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Struna1292/LeetCode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Struna1292/LeetCode/tree/master/0768-partition-labels) |
@@ -1140,6 +1143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Struna1292/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Struna1292/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Struna1292/LeetCode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Struna1292/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Struna1292/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
