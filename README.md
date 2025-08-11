@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Struna1292/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Struna1292/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Struna1292/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0284-peeking-iterator](https://github.com/Struna1292/LeetCode/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/Struna1292/LeetCode/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Struna1292/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/Struna1292/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -1254,6 +1255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Struna1292/LeetCode/tree/master/0146-lru-cache) |
+| [0284-peeking-iterator](https://github.com/Struna1292/LeetCode/tree/master/0284-peeking-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Struna1292/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/Struna1292/LeetCode/tree/master/0817-design-hashmap) |
@@ -1431,4 +1433,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Struna1292/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/Struna1292/LeetCode/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
