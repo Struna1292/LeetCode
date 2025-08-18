@@ -590,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Struna1292/LeetCode/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Struna1292/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0813-all-paths-from-source-to-target](https://github.com/Struna1292/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [0871-keys-and-rooms](https://github.com/Struna1292/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1916-find-center-of-star-graph](https://github.com/Struna1292/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Struna1292/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -1050,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/Struna1292/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/Struna1292/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0854-making-a-large-island](https://github.com/Struna1292/LeetCode/tree/master/0854-making-a-large-island) |
+| [0871-keys-and-rooms](https://github.com/Struna1292/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -1146,6 +1148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0813-all-paths-from-source-to-target](https://github.com/Struna1292/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0854-making-a-large-island](https://github.com/Struna1292/LeetCode/tree/master/0854-making-a-large-island) |
+| [0871-keys-and-rooms](https://github.com/Struna1292/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Struna1292/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
