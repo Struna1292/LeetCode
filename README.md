@@ -477,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Struna1292/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Struna1292/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Struna1292/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Struna1292/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Struna1292/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Struna1292/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -882,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/Struna1292/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Struna1292/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Struna1292/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Struna1292/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Struna1292/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Struna1292/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Struna1292/LeetCode/tree/master/1720-crawler-log-folder) |
