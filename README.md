@@ -1282,6 +1282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/Struna1292/LeetCode/tree/master/1212-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/Struna1292/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Struna1292/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Struna1292/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
