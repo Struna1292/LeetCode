@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Struna1292/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Struna1292/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Struna1292/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/Struna1292/LeetCode/tree/master/0274-h-index) |
 | [0284-peeking-iterator](https://github.com/Struna1292/LeetCode/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/Struna1292/LeetCode/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Struna1292/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -675,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Struna1292/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Struna1292/LeetCode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Struna1292/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Struna1292/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Struna1292/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/Struna1292/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
@@ -1412,6 +1414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Struna1292/LeetCode/tree/master/0274-h-index) |
 | [1217-relative-sort-array](https://github.com/Struna1292/LeetCode/tree/master/1217-relative-sort-array) |
 ## Combinatorics
 |  |
