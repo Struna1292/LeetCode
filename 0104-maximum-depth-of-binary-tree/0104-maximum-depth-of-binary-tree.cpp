@@ -11,27 +11,17 @@
  */
 class Solution {
 public:
-
-    void inOrder(TreeNode* root, int &depth, int &deepest)
-    {
-        if (root == NULL)
-        {
-            return;
-        }
-
-        depth++;
-        if (depth > deepest)
-        {
-            deepest = depth;
-        }
-        inOrder(root->left, depth, deepest);
-        inOrder(root->right, depth, deepest);
-        depth--;
-    }
     int maxDepth(TreeNode* root) {
-        int depth = 0;
-        int deepest = 0;
-        inOrder(root, depth, deepest);
-        return deepest;
+        if (root == nullptr) {
+            return 0;
+        }
+
+        int left = maxDepth(root->left);
+        int right = maxDepth(root->right);
+
+        if (left > right) {
+            return left + 1;
+        }
+        return right + 1;        
     }
 };
