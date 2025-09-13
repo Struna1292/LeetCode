@@ -1,11 +1,14 @@
 class Solution {
 public:
-    bool isVowel(char c)
-    {
-        if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c =='u')
-        {
-            return true;
+    bool isVowel(char c) {
+        string vowels = "aeiou";
+
+        for (int i = 0; i < vowels.length(); i++) {
+            if (vowels[i] == c) {
+                return true;
+            }
         }
+
         return false;
     }
 
@@ -13,32 +16,22 @@ public:
         
         int alph[26] = { 0 };
 
-        for (char c : s)
-        {
-            alph[c-'a']++;
+        for (int i = 0; i < s.length(); i++) {
+            alph[s[i]-'a']++;
         }
 
-        int mostFrequentConsonant = 0;
-        int mostFrequentVowel = 0;
+        int bestVowel = 0;
+        int bestConsonant = 0;
 
-        for (int i = 0; i < 26; i++)
-        {
-            if (isVowel(i+'a'))
-            {
-                if (alph[i] > mostFrequentVowel)
-                {
-                    mostFrequentVowel = alph[i];
-                }
+        for (int i = 0; i < 26; i++) {
+            if (isVowel(i+'a')) {
+                bestVowel = max(alph[i], bestVowel);
             }
-            else
-            {
-                if (alph[i] > mostFrequentConsonant)
-                {
-                    mostFrequentConsonant = alph[i];
-                }
+            else {
+                bestConsonant = max(alph[i], bestConsonant);
             }
         }
 
-        return mostFrequentConsonant + mostFrequentVowel;
+        return bestVowel + bestConsonant;
     }
 };
