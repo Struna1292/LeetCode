@@ -2,46 +2,31 @@ class Solution {
 public:
     int canBeTypedWords(string text, string brokenLetters) {
         
-        bool broken[26] = { false };
+        vector<bool> alph(26, true);
 
-        for (int i = 0; i < brokenLetters.length(); i++)
-        {
-            broken[brokenLetters[i] - 'a'] = true;
+        for (int i = 0; i < brokenLetters.length(); i++) {
+            alph[brokenLetters[i]-'a'] = false;
         }
 
-        bool isBroken = false;
+        int wordsCounter = 0;
+        bool possibleWord = true;
 
-        int output = 0;
+        for (int i = 0; i < text.length(); i++) {
+            if (text[i] == ' ') {
+                if (possibleWord) {
+                    wordsCounter++;
+                }
 
-        for (int i = 0; i < text.length(); i++)
-        {
-            if (text[i] != ' ' && broken[text[i]-'a'])
-            {
-                isBroken = true;
+                possibleWord = true;
             }
-            
-            if (text[i] == ' ')
-            {
-                if (!isBroken)
-                {
-                    output++;
-                }
-                else
-                {
-                    isBroken = false;
-                }
+            else if (!alph[text[i]-'a']) {
+                possibleWord = false;
             }
         }
-        if (!isBroken)
-        {
-            output++;
-        }
-        else
-        {
-            isBroken = false;
-        }
+        if (possibleWord) {
+            wordsCounter++;
+        }        
 
-
-        return output;
+        return wordsCounter;
     }
 };
