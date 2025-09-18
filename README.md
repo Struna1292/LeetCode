@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Struna1292/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Struna1292/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Struna1292/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/Struna1292/LeetCode/tree/master/3678-design-task-manager) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Struna1292/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Struna1292/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Struna1292/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1300,6 +1301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Struna1292/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Struna1292/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3678-design-task-manager](https://github.com/Struna1292/LeetCode/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Struna1292/LeetCode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Divide and Conquer
@@ -1356,6 +1358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2434-design-a-number-container-system](https://github.com/Struna1292/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Struna1292/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3516-design-neighbor-sum-service](https://github.com/Struna1292/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+| [3678-design-task-manager](https://github.com/Struna1292/LeetCode/tree/master/3678-design-task-manager) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1438,6 +1441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/Struna1292/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Struna1292/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Struna1292/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/Struna1292/LeetCode/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Counting Sort
 |  |
