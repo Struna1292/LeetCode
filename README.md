@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Struna1292/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Struna1292/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Struna1292/LeetCode/tree/master/0079-word-search) |
+| [0165-compare-version-numbers](https://github.com/Struna1292/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Struna1292/LeetCode/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Struna1292/LeetCode/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -639,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/Struna1292/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Struna1292/LeetCode/tree/master/0018-4sum) |
+| [0165-compare-version-numbers](https://github.com/Struna1292/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Struna1292/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Struna1292/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Struna1292/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
