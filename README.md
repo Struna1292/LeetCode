@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Struna1292/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Struna1292/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Struna1292/LeetCode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Struna1292/LeetCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Struna1292/LeetCode/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/Struna1292/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Struna1292/LeetCode/tree/master/0189-rotate-array) |
@@ -1536,6 +1537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Struna1292/LeetCode/tree/master/0120-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Struna1292/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Struna1292/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Topological Sort
