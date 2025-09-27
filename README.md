@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/Struna1292/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/Struna1292/LeetCode/tree/master/0817-design-hashmap) |
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
+| [0830-largest-triangle-area](https://github.com/Struna1292/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Struna1292/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Struna1292/LeetCode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Struna1292/LeetCode/tree/master/0890-lemonade-change) |
@@ -863,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/Struna1292/LeetCode/tree/master/0670-maximum-swap) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Struna1292/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/Struna1292/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Struna1292/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0935-orderly-queue](https://github.com/Struna1292/LeetCode/tree/master/0935-orderly-queue) |
 | [0944-smallest-range-i](https://github.com/Struna1292/LeetCode/tree/master/0944-smallest-range-i) |
 | [1260-day-of-the-year](https://github.com/Struna1292/LeetCode/tree/master/1260-day-of-the-year) |
@@ -1573,4 +1575,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Struna1292/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Struna1292/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
