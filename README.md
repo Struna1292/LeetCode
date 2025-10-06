@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Struna1292/LeetCode/tree/master/0733-flood-fill) |
 | [0749-shortest-completing-word](https://github.com/Struna1292/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/Struna1292/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0794-swim-in-rising-water](https://github.com/Struna1292/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Struna1292/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/Struna1292/LeetCode/tree/master/0817-design-hashmap) |
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
@@ -685,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Struna1292/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Struna1292/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/Struna1292/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Struna1292/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0924-fair-candy-swap](https://github.com/Struna1292/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Struna1292/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1138,6 +1140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Struna1292/LeetCode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Struna1292/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Struna1292/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/Struna1292/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0813-all-paths-from-source-to-target](https://github.com/Struna1292/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/Struna1292/LeetCode/tree/master/0832-binary-tree-pruning) |
@@ -1180,6 +1183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Struna1292/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Struna1292/LeetCode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Struna1292/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0794-swim-in-rising-water](https://github.com/Struna1292/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Struna1292/LeetCode/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/Struna1292/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/Struna1292/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -1246,6 +1250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Struna1292/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Struna1292/LeetCode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Struna1292/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0794-swim-in-rising-water](https://github.com/Struna1292/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Struna1292/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0813-all-paths-from-source-to-target](https://github.com/Struna1292/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0854-making-a-large-island](https://github.com/Struna1292/LeetCode/tree/master/0854-making-a-large-island) |
@@ -1321,6 +1326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/Struna1292/LeetCode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Struna1292/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Struna1292/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Struna1292/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Struna1292/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -1462,6 +1468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Struna1292/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Struna1292/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Struna1292/LeetCode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Struna1292/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Struna1292/LeetCode/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/Struna1292/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1380-number-of-closed-islands](https://github.com/Struna1292/LeetCode/tree/master/1380-number-of-closed-islands) |
