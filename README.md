@@ -364,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Struna1292/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/Struna1292/LeetCode/tree/master/3998-minimum-operations-to-equalize-array) |
+| [4005-maximum-total-subarray-value-i](https://github.com/Struna1292/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Struna1292/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
@@ -814,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Struna1292/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Struna1292/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [4005-maximum-total-subarray-value-i](https://github.com/Struna1292/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Linked List
 |  |
 | ------- |
