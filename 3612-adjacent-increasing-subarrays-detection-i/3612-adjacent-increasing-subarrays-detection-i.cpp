@@ -1,37 +1,30 @@
 class Solution {
 public:
     bool hasIncreasingSubarrays(vector<int>& nums, int k) {
-
-        if (k == 1)
-        {
+        if (k == 1) {
             return true;
         }
-        
-        int counter = 1;
 
-        int index = -1;
+        int currK = k-1;
+        unordered_set<int> indexes;
 
-        for (int i = nums.size()-2; i >= 0; i--)
-        {
-            if (nums[i] < nums[i+1])
-            {
-                counter++;
-                if (counter == 2*k)
-                {
-                    return true;
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums[i-1] < nums[i]) {
+                if (currK > 0) {
+                    currK--;
                 }
-                else if (counter >= k)
-                {
-                    if (index != -1 && index - i == k)
-                    {
+
+                if (currK == 0) {
+                    if (indexes.find(i-k) != indexes.end()) {
                         return true;
                     }
-                    index = i;
+                    else {
+                        indexes.insert(i);
+                    }
                 }
             }
-            else
-            {
-                counter = 1;
+            else {
+                currK = k-1;
             }
         }
 
