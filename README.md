@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Struna1292/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3632-button-with-longest-push-time](https://github.com/Struna1292/LeetCode/tree/master/3632-button-with-longest-push-time) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3651-transformed-array](https://github.com/Struna1292/LeetCode/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Struna1292/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Struna1292/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -723,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Struna1292/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Struna1292/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Struna1292/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -785,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3430-count-days-without-meetings](https://github.com/Struna1292/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Struna1292/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Struna1292/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/Struna1292/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/Struna1292/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
@@ -1135,6 +1138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Struna1292/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Struna1292/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1261,6 +1265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Struna1292/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Struna1292/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Struna1292/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Struna1292/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Breadth-First Search
