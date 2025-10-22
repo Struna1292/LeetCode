@@ -30,14 +30,12 @@ public:
             }
 
             output = max(output, helper(nums, prev, k, numOperations, counter));
-            output = max(output, helper(nums, prev-k, k, numOperations-1, 1));
             output = max(output, helper(nums, prev+k, k, numOperations-1, 1));
 
             counter = 1;
             prev = nums[i];
         }
         output = max(output, helper(nums, prev, k, numOperations, counter));
-        output = max(output, helper(nums, prev-k, k, numOperations-1, 1));
         output = max(output, helper(nums, prev+k, k, numOperations-1, 1));          
 
         return output;
