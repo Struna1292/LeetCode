@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Struna1292/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Struna1292/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/Struna1292/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Struna1292/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Struna1292/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Struna1292/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Struna1292/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Struna1292/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Struna1292/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Struna1292/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Struna1292/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Struna1292/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Struna1292/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -936,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Struna1292/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Struna1292/LeetCode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Struna1292/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Struna1292/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Struna1292/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Struna1292/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Struna1292/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1248,6 +1251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/Struna1292/LeetCode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/Struna1292/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Struna1292/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Struna1292/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Struna1292/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Struna1292/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Struna1292/LeetCode/tree/master/2411-spiral-matrix-iv) |
