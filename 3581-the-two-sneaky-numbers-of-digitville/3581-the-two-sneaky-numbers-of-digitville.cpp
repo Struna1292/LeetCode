@@ -2,20 +2,13 @@ class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
         
-        map<int,int> mp;
-
-        for (int num : nums)
-        {
-            mp[num]++;
-        }
-
+        vector<int> occs(nums.size(), 0);
         vector<int> output;
 
-        for (auto itr = mp.begin(); itr != mp.end(); itr++)
-        {
-            if (itr->second > 1)
-            {
-                output.push_back(itr->first);
+        for (int i = 0; i < nums.size(); i++) {
+            occs[nums[i]]++;
+            if (occs[nums[i]] > 1) {
+                output.push_back(nums[i]);
             }
         }
 
