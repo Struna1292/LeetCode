@@ -10,61 +10,38 @@
  */
 class Solution {
 public:
-    bool binarySearch(vector<int>& nums, int target)
-    {
-        int left = 0;
-        int right = nums.size()-1;
-
-        while (left <= right)
-        {
-            int mid = left + (right - left) / 2;
-
-            if (nums[mid] == target)
-            {
-                return true;
-            }
-            else if (nums[mid] > target)
-            {
-                right = mid - 1;
-            }
-            else
-            {
-                left = mid + 1;
-            }
-        }
-        return false;
-    }
-
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        
-        sort(begin(nums), end(nums));
 
-        ListNode* list = new ListNode;
+        unordered_set<int> us;
 
-        ListNode* curr = list;
+        for (int i = 0; i < nums.size(); i++) {
+            us.insert(nums[i]);
+        }
 
+        ListNode* curr = head;
         ListNode* prev = nullptr;
 
-        while (head != nullptr)
-        {
-            ListNode* temp = head;
-
-            if (!binarySearch(nums, head->val))
-            {
-                curr->val = head->val;
-                curr->next = new ListNode;
+        while (curr != nullptr) {
+            if (us.contains(curr->val)) {
+                if (curr == head) {
+                    head = head->next;
+                    ListNode* temp = curr;
+                    curr = head;
+                    //delete temp;
+                }
+                else {
+                    ListNode* temp = curr;
+                    prev->next = curr->next;
+                    curr = prev->next;
+                    //delete temp;
+                }
+            }
+            else {
                 prev = curr;
                 curr = curr->next;
             }
-
-            head = head->next;
-            delete temp;
         }
 
-        prev->next = nullptr;
-        
-        delete curr;
-
-        return list;
+        return head;
     }
 };
