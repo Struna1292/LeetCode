@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Struna1292/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Struna1292/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Struna1292/LeetCode/tree/master/1656-count-good-triplets) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Struna1292/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Struna1292/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Struna1292/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Struna1292/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1542-consecutive-characters](https://github.com/Struna1292/LeetCode/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Struna1292/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1660-thousand-separator](https://github.com/Struna1292/LeetCode/tree/master/1660-thousand-separator) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Struna1292/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1714-rearrange-spaces-between-words](https://github.com/Struna1292/LeetCode/tree/master/1714-rearrange-spaces-between-words) |
 | [1720-crawler-log-folder](https://github.com/Struna1292/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Struna1292/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -821,6 +823,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/Struna1292/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Struna1292/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Struna1292/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Struna1292/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Struna1292/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Struna1292/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/Struna1292/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
@@ -1644,6 +1647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Struna1292/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Struna1292/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Struna1292/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Struna1292/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Topological Sort
 |  |
 | ------- |
