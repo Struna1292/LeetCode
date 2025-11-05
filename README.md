@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3998-minimum-operations-to-equalize-array](https://github.com/Struna1292/LeetCode/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Struna1292/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Struna1292/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
+| [4107-find-missing-elements](https://github.com/Struna1292/LeetCode/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Struna1292/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4055-longest-balanced-substring-i](https://github.com/Struna1292/LeetCode/tree/master/4055-longest-balanced-substring-i) |
+| [4107-find-missing-elements](https://github.com/Struna1292/LeetCode/tree/master/4107-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -804,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3778-transform-array-by-parity](https://github.com/Struna1292/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/Struna1292/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [4107-find-missing-elements](https://github.com/Struna1292/LeetCode/tree/master/4107-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
