@@ -7,12 +7,12 @@ public:
             us.insert(num);
         }
 
-        int i = 1;
+        int curr = k;
         while (true) {
-            if (!us.contains(k*i)) {
-                return k*i;
+            if (!us.contains(curr)) {
+                return curr;
             }
-            i++;
+            curr += k;
         }   
 
         return -1;
