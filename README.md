@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Struna1292/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2716-prime-subtraction-operation](https://github.com/Struna1292/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Struna1292/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Struna1292/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Struna1292/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Struna1292/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Struna1292/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -970,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Struna1292/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Struna1292/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Struna1292/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Struna1292/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Struna1292/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Struna1292/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Struna1292/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -1530,6 +1532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Struna1292/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Struna1292/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Struna1292/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Struna1292/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Struna1292/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
