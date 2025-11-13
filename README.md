@@ -610,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3462-vowels-game-in-a-string](https://github.com/Struna1292/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/Struna1292/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Struna1292/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Struna1292/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3533-snake-in-matrix](https://github.com/Struna1292/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/Struna1292/LeetCode/tree/master/3540-hash-divided-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Struna1292/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -662,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Struna1292/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Struna1292/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Struna1292/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3519-find-the-number-of-winning-players](https://github.com/Struna1292/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Struna1292/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Struna1292/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -859,6 +861,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Struna1292/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Struna1292/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Struna1292/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Struna1292/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Struna1292/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
