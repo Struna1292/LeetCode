@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3998-minimum-operations-to-equalize-array](https://github.com/Struna1292/LeetCode/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Struna1292/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Struna1292/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Struna1292/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Struna1292/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Struna1292/LeetCode/tree/master/4107-find-missing-elements) |
 ## Hash Table
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Struna1292/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4055-longest-balanced-substring-i](https://github.com/Struna1292/LeetCode/tree/master/4055-longest-balanced-substring-i) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Struna1292/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Struna1292/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Struna1292/LeetCode/tree/master/4107-find-missing-elements) |
 ## String
@@ -674,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Struna1292/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4055-longest-balanced-substring-i](https://github.com/Struna1292/LeetCode/tree/master/4055-longest-balanced-substring-i) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Struna1292/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Graph
 |  |
 | ------- |
