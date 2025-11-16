@@ -558,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Struna1292/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/Struna1292/LeetCode/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Struna1292/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Struna1292/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1660-thousand-separator](https://github.com/Struna1292/LeetCode/tree/master/1660-thousand-separator) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Struna1292/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1714-rearrange-spaces-between-words](https://github.com/Struna1292/LeetCode/tree/master/1714-rearrange-spaces-between-words) |
@@ -957,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Struna1292/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Struna1292/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/Struna1292/LeetCode/tree/master/1500-count-largest-group) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Struna1292/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Struna1292/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Struna1292/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Struna1292/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
