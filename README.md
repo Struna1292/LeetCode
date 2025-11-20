@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Struna1292/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Struna1292/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Struna1292/LeetCode/tree/master/4107-find-missing-elements) |
+| [4112-maximize-expression-of-three-elements](https://github.com/Struna1292/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -824,6 +825,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3859-maximum-product-of-two-digits](https://github.com/Struna1292/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4107-find-missing-elements](https://github.com/Struna1292/LeetCode/tree/master/4107-find-missing-elements) |
+| [4112-maximize-expression-of-three-elements](https://github.com/Struna1292/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -875,6 +877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Struna1292/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Struna1292/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
+| [4112-maximize-expression-of-three-elements](https://github.com/Struna1292/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -1476,6 +1479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3626-smallest-divisible-digit-product-i](https://github.com/Struna1292/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Struna1292/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4055-longest-balanced-substring-i](https://github.com/Struna1292/LeetCode/tree/master/4055-longest-balanced-substring-i) |
+| [4112-maximize-expression-of-three-elements](https://github.com/Struna1292/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Rolling Hash
 |  |
 | ------- |
