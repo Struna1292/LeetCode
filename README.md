@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/Struna1292/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/Struna1292/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Struna1292/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Struna1292/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/Struna1292/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1168-duplicate-zeros](https://github.com/Struna1292/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Struna1292/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -1391,6 +1392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0693-binary-number-with-alternating-bits](https://github.com/Struna1292/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Struna1292/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0800-letter-case-permutation](https://github.com/Struna1292/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Struna1292/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/Struna1292/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/Struna1292/LeetCode/tree/master/1839-decode-xored-array) |
