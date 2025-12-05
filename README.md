@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Struna1292/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/Struna1292/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Struna1292/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Struna1292/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Struna1292/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/Struna1292/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Struna1292/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1013,6 +1014,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Struna1292/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Struna1292/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Struna1292/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Struna1292/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Struna1292/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Struna1292/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Struna1292/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -1340,6 +1342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2625-increment-submatrices-by-one](https://github.com/Struna1292/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Struna1292/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Struna1292/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Struna1292/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Struna1292/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Struna1292/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
