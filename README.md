@@ -1030,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3626-smallest-divisible-digit-product-i](https://github.com/Struna1292/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Struna1292/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Struna1292/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Struna1292/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Struna1292/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Struna1292/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -1504,6 +1505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2998-count-symmetric-integers](https://github.com/Struna1292/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Struna1292/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Struna1292/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Struna1292/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Struna1292/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4055-longest-balanced-substring-i](https://github.com/Struna1292/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4112-maximize-expression-of-three-elements](https://github.com/Struna1292/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
@@ -1720,6 +1722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Struna1292/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Struna1292/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Struna1292/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Struna1292/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Topological Sort
 |  |
 | ------- |
