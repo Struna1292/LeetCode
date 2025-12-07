@@ -1,19 +1,14 @@
 class Solution {
 public:
     int countOdds(int low, int high) {
-        int output = 0;
-        if ((high - low + 1) % 2 == 0)
-        {
-            output = (high - low + 1) / 2;
+
+        int amount = high + 1 - low;
+        int odds = amount / 2;
+
+        if (amount % 2 != 0 && low % 2 != 0) {
+            odds++;
         }
-        else
-        {
-            output = (high - low) / 2;
-            if (high % 2 != 0)
-            {
-                output++;
-            }
-        }
-        return output;
+
+        return odds;
     }
 };
