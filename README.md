@@ -358,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Struna1292/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Struna1292/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Struna1292/LeetCode/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Struna1292/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Struna1292/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Struna1292/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -500,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3519-find-the-number-of-winning-players](https://github.com/Struna1292/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Struna1292/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Struna1292/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Struna1292/LeetCode/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Struna1292/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Struna1292/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Struna1292/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -686,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/Struna1292/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Struna1292/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3519-find-the-number-of-winning-players](https://github.com/Struna1292/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
+| [3583-count-special-triplets](https://github.com/Struna1292/LeetCode/tree/master/3583-count-special-triplets) |
 | [3692-majority-frequency-characters](https://github.com/Struna1292/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Struna1292/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Struna1292/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
