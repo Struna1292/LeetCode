@@ -899,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Struna1292/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Struna1292/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Struna1292/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Struna1292/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Struna1292/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Struna1292/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
@@ -1039,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3626-smallest-divisible-digit-product-i](https://github.com/Struna1292/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Struna1292/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Struna1292/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Struna1292/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Struna1292/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Struna1292/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
