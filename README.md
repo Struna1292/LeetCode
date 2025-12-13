@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Struna1292/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Struna1292/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Struna1292/LeetCode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Struna1292/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Struna1292/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Struna1292/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Struna1292/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Struna1292/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Struna1292/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Struna1292/LeetCode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Struna1292/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Struna1292/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Struna1292/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Struna1292/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -642,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Struna1292/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3567-convert-date-to-binary](https://github.com/Struna1292/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Struna1292/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3606-coupon-code-validator](https://github.com/Struna1292/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/Struna1292/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/Struna1292/LeetCode/tree/master/3636-check-balanced-string) |
 | [3692-majority-frequency-characters](https://github.com/Struna1292/LeetCode/tree/master/3692-majority-frequency-characters) |
@@ -841,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Struna1292/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Struna1292/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Struna1292/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3606-coupon-code-validator](https://github.com/Struna1292/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Struna1292/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
