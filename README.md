@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Struna1292/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Struna1292/LeetCode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3533-snake-in-matrix](https://github.com/Struna1292/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3537-fill-a-special-grid](https://github.com/Struna1292/LeetCode/tree/master/3537-fill-a-special-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Struna1292/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Struna1292/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1344,6 +1345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/Struna1292/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3516-design-neighbor-sum-service](https://github.com/Struna1292/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Struna1292/LeetCode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3537-fill-a-special-grid](https://github.com/Struna1292/LeetCode/tree/master/3537-fill-a-special-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Struna1292/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Struna1292/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Struna1292/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1502,6 +1504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Struna1292/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Struna1292/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3537-fill-a-special-grid](https://github.com/Struna1292/LeetCode/tree/master/3537-fill-a-special-grid) |
 ## Quickselect
 |  |
 | ------- |
