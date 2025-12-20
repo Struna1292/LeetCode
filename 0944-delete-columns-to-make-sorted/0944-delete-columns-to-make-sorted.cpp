@@ -1,20 +1,17 @@
 class Solution {
 public:
     int minDeletionSize(vector<string>& strs) {
-        int counter = 0;
+        int output = 0;
 
-        for (int i = 0; i < strs[0].size(); i++)
-        {
-            for (int j = 0; j < strs.size()-1; j++)
-            {
-                if (strs[j][i] > strs[j+1][i])
-                {
-                    counter++;
+        for (int j = 0; j < strs[0].size(); j++) {
+            for (int i = 1; i < strs.size(); i++) {
+                if (strs[i][j] < strs[i-1][j]) {
+                    output++;
                     break;
                 }
             }
         }
 
-        return counter;
+        return output;
     }
 };
