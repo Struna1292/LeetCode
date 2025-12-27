@@ -390,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3769-sort-integers-by-binary-reflection](https://github.com/Struna1292/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3778-transform-array-by-parity](https://github.com/Struna1292/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Struna1292/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Struna1292/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Struna1292/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Struna1292/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -666,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Struna1292/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Struna1292/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Struna1292/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3797-design-spreadsheet](https://github.com/Struna1292/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/Struna1292/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -921,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Struna1292/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Struna1292/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Struna1292/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Struna1292/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Struna1292/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Struna1292/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
@@ -1511,6 +1514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Struna1292/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Struna1292/LeetCode/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/Struna1292/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3863-power-grid-maintenance](https://github.com/Struna1292/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Struna1292/LeetCode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Divide and Conquer
