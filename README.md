@@ -1173,6 +1173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Struna1292/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1223,6 +1224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/Struna1292/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Struna1292/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1313,6 +1315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/Struna1292/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Struna1292/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1380-number-of-closed-islands](https://github.com/Struna1292/LeetCode/tree/master/1380-number-of-closed-islands) |
@@ -1436,6 +1439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/Struna1292/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Struna1292/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Struna1292/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1380-number-of-closed-islands](https://github.com/Struna1292/LeetCode/tree/master/1380-number-of-closed-islands) |
