@@ -389,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Struna1292/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3723-sum-of-good-numbers](https://github.com/Struna1292/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Struna1292/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Struna1292/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Struna1292/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Struna1292/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Struna1292/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3692-majority-frequency-characters](https://github.com/Struna1292/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Struna1292/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Struna1292/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Struna1292/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Struna1292/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Struna1292/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Struna1292/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -721,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3583-count-special-triplets](https://github.com/Struna1292/LeetCode/tree/master/3583-count-special-triplets) |
 | [3692-majority-frequency-characters](https://github.com/Struna1292/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Struna1292/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Struna1292/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Struna1292/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Struna1292/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Struna1292/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1413,6 +1416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Struna1292/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Struna1292/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Struna1292/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1550,6 +1554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Struna1292/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Struna1292/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3537-fill-a-special-grid](https://github.com/Struna1292/LeetCode/tree/master/3537-fill-a-special-grid) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Struna1292/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -1714,6 +1719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Struna1292/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Struna1292/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Struna1292/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Doubly-Linked List
 |  |
@@ -1821,4 +1827,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Struna1292/LeetCode/tree/master/0830-largest-triangle-area) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Struna1292/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
