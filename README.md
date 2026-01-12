@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/Struna1292/LeetCode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Struna1292/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Struna1292/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Struna1292/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/Struna1292/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Struna1292/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/Struna1292/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -1028,6 +1029,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-smallest-range-i](https://github.com/Struna1292/LeetCode/tree/master/0944-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/Struna1292/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1260-day-of-the-year](https://github.com/Struna1292/LeetCode/tree/master/1260-day-of-the-year) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Struna1292/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Struna1292/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Struna1292/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Struna1292/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -1827,6 +1829,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Struna1292/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Struna1292/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Merge Sort
 |  |
 | ------- |
