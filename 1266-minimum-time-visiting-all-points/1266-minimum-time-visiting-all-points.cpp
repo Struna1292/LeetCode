@@ -1,23 +1,16 @@
 class Solution {
 public:
     int minTimeToVisitAllPoints(vector<vector<int>>& points) {
-
         int output = 0;
-        
-        for (int i = 1; i < points.size(); i++)
-        {
-            int x = abs(points[i-1][0] - points[i][0]);
-            int y = abs(points[i-1][1] - points[i][1]);
+        for (int i = 1; i < points.size(); i++) {
+            int xDiff = abs(points[i][0] - points[i-1][0]);
+            int yDiff = abs(points[i][1] - points[i-1][1]);
 
-            if (x <= y)
-            {
-                output += y;
-            }
-            else
-            {
-                output += x;
-            }
-            
+            int diagonally = min(xDiff, yDiff);
+
+            output += diagonally;
+            output += xDiff - diagonally;
+            output += yDiff - diagonally;
         }
 
         return output;
