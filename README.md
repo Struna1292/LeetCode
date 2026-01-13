@@ -394,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Struna1292/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Struna1292/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Struna1292/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Struna1292/LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Struna1292/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Struna1292/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3778-transform-array-by-parity](https://github.com/Struna1292/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -810,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Struna1292/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Struna1292/LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3790-fruits-into-baskets-ii](https://github.com/Struna1292/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -880,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Struna1292/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Struna1292/LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Struna1292/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3778-transform-array-by-parity](https://github.com/Struna1292/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/Struna1292/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
@@ -1557,11 +1560,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Struna1292/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3537-fill-a-special-grid](https://github.com/Struna1292/LeetCode/tree/master/3537-fill-a-special-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Struna1292/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Struna1292/LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Struna1292/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Struna1292/LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Enumeration
 |  |
 | ------- |
