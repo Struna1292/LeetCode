@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Struna1292/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Struna1292/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Struna1292/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Struna1292/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2846-robot-collisions](https://github.com/Struna1292/LeetCode/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Struna1292/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Struna1292/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Struna1292/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Struna1292/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Struna1292/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Struna1292/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Struna1292/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1275,6 +1277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Struna1292/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Struna1292/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Struna1292/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Struna1292/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Struna1292/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/Struna1292/LeetCode/tree/master/3463-alternating-groups-i) |
