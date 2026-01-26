@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-unique-paths-iii](https://github.com/Struna1292/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1168-duplicate-zeros](https://github.com/Struna1292/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Struna1292/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/Struna1292/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Struna1292/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/Struna1292/LeetCode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Struna1292/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -849,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/Struna1292/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/Struna1292/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/Struna1292/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/Struna1292/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/Struna1292/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Struna1292/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Struna1292/LeetCode/tree/master/1306-minimum-absolute-difference) |
