@@ -1,24 +1,20 @@
 class Solution {
 public:
     int minimumCost(vector<int>& nums) {
-        
-        int first = nums[0];
-        int lowestNum1 = 50;
-        int lowestNum2 = 50;
 
-        for (int i = 1; i < nums.size(); i++)
-        {
-            if (lowestNum1 > nums[i])
-            {
-                lowestNum2 = lowestNum1;
-                lowestNum1 = nums[i];
+        int firstMin = INT_MAX;
+        int secondMin = INT_MAX;
+
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums[i] < firstMin) {
+                secondMin = firstMin;
+                firstMin = nums[i];
             }
-            else if (lowestNum1 == nums[i] || lowestNum2 > nums[i])
-            {
-                lowestNum2 = nums[i];
+            else if (nums[i] == firstMin || nums[i] < secondMin) {
+                secondMin = nums[i];
             }
         }
 
-        return first + lowestNum1 + lowestNum2;
+        return nums[0] + firstMin + secondMin;
     }
 };
