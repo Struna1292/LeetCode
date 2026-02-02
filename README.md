@@ -658,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Struna1292/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/Struna1292/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Struna1292/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Struna1292/LeetCode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Struna1292/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Struna1292/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Struna1292/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -957,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/Struna1292/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Struna1292/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Struna1292/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Struna1292/LeetCode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3195-separate-black-and-white-balls](https://github.com/Struna1292/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Struna1292/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Struna1292/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
