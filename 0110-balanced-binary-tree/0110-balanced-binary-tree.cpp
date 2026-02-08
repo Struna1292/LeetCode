@@ -11,57 +11,25 @@
  */
 class Solution {
 public:
-    void depth(TreeNode* root, int curr, int& output)
-    {
-        if (root == nullptr)
-        {
-            return;
+    int DFS(TreeNode* root, bool& output) {
+        if (root == nullptr) {
+            return 0;
         }
 
-        if (curr > output)
-        {
-            output = curr;
-        }
+        int left = DFS(root->left, output);
+        int right = DFS(root->right, output);
 
-        depth(root->left, curr+1, output);
-
-        depth(root->right, curr+1, output);
-    }
-
-    void inOrder(TreeNode* root, bool& output)
-    {
-        if (!output || root == nullptr)
-        {
-            return;
-        }
-
-        int leftDepth = 0;
-        int rightDepth = 0;
-
-        depth(root->left, 1, leftDepth);
-        depth(root->right, 1, rightDepth);
-
-        if (abs(leftDepth - rightDepth) > 1)
-        {
+        if (abs(left - right) >= 2) {
             output = false;
-            return;
         }
 
-        inOrder(root->left, output);
-
-        inOrder(root->right, output);
+        return max(left, right) + 1;
     }
 
     bool isBalanced(TreeNode* root) {
-
-        if (root == nullptr)
-        {
-            return true;
-        }
-        
         bool output = true;
 
-        inOrder(root, output);
+        DFS(root, output);
 
         return output;
     }
