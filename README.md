@@ -550,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Struna1292/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3692-majority-frequency-characters](https://github.com/Struna1292/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Struna1292/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3713-longest-balanced-substring-i](https://github.com/Struna1292/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Struna1292/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Struna1292/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Struna1292/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -697,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3692-majority-frequency-characters](https://github.com/Struna1292/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3707-equal-score-substrings](https://github.com/Struna1292/LeetCode/tree/master/3707-equal-score-substrings) |
 | [3709-find-special-substring-of-length-k](https://github.com/Struna1292/LeetCode/tree/master/3709-find-special-substring-of-length-k) |
+| [3713-longest-balanced-substring-i](https://github.com/Struna1292/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Struna1292/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Struna1292/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Struna1292/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -748,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3527-find-the-most-common-response](https://github.com/Struna1292/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3583-count-special-triplets](https://github.com/Struna1292/LeetCode/tree/master/3583-count-special-triplets) |
 | [3692-majority-frequency-characters](https://github.com/Struna1292/LeetCode/tree/master/3692-majority-frequency-characters) |
+| [3713-longest-balanced-substring-i](https://github.com/Struna1292/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Struna1292/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Struna1292/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Struna1292/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -1641,6 +1644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Struna1292/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/Struna1292/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Struna1292/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Struna1292/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Struna1292/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Struna1292/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3827-count-monobit-integers](https://github.com/Struna1292/LeetCode/tree/master/3827-count-monobit-integers) |
