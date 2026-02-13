@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0965-unique-email-addresses](https://github.com/Struna1292/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0978-valid-mountain-array](https://github.com/Struna1292/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0985-bag-of-tokens](https://github.com/Struna1292/LeetCode/tree/master/0985-bag-of-tokens) |
+| [0989-add-to-array-form-of-integer](https://github.com/Struna1292/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [0999-regions-cut-by-slashes](https://github.com/Struna1292/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Struna1292/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/Struna1292/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -1076,6 +1077,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0840-magic-squares-in-grid](https://github.com/Struna1292/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0935-orderly-queue](https://github.com/Struna1292/LeetCode/tree/master/0935-orderly-queue) |
 | [0944-smallest-range-i](https://github.com/Struna1292/LeetCode/tree/master/0944-smallest-range-i) |
+| [0989-add-to-array-form-of-integer](https://github.com/Struna1292/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-largest-perimeter-triangle](https://github.com/Struna1292/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1260-day-of-the-year](https://github.com/Struna1292/LeetCode/tree/master/1260-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Struna1292/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
