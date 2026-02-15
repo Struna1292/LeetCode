@@ -577,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/Struna1292/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/Struna1292/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Struna1292/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Struna1292/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Struna1292/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Struna1292/LeetCode/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/Struna1292/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -1009,6 +1010,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Struna1292/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Struna1292/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Struna1292/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0906-walking-robot-simulation](https://github.com/Struna1292/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -1065,6 +1067,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/Struna1292/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Struna1292/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Struna1292/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Struna1292/LeetCode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Struna1292/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0398-random-pick-index](https://github.com/Struna1292/LeetCode/tree/master/0398-random-pick-index) |
@@ -1541,6 +1544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Struna1292/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Struna1292/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Struna1292/LeetCode/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Struna1292/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
