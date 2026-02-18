@@ -2,20 +2,15 @@ class Solution {
 public:
     bool hasAlternatingBits(int n) {
         
-        string s = bitset<64>(n).to_string(); 
-
-        int i = 0;
-        while (s[i] != '1')
-        {
-            i++;
-        }
-
-        for (; i < 64; i++)
-        {
-            if (s[i-1] == s[i])
-            {
+        int curr = n & 1;
+        n >>= 1;
+        while (n > 0) {
+            int digit = n & 1;
+            if (curr == digit) {
                 return false;
             }
+            curr = digit;
+            n >>= 1;
         }
 
         return true;
