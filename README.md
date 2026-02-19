@@ -591,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Struna1292/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Struna1292/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Struna1292/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/Struna1292/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0749-shortest-completing-word](https://github.com/Struna1292/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/Struna1292/LeetCode/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/Struna1292/LeetCode/tree/master/0800-letter-case-permutation) |
@@ -792,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Struna1292/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Struna1292/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Struna1292/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/Struna1292/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Struna1292/LeetCode/tree/master/0768-partition-labels) |
 | [0958-sort-array-by-parity-ii](https://github.com/Struna1292/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/Struna1292/LeetCode/tree/master/0985-bag-of-tokens) |
