@@ -11,34 +11,28 @@
  */
 class Solution {
 public:
-    void helper(TreeNode* root, int curr, int& output)
-    {
-        if (root == nullptr)
-        {
+    void DFS(TreeNode* root, int curr, int& output) {
+        if (root == nullptr) {
             return;
-        }
-
+        } 
+        
         curr <<= 1;
-
-        if (root->val == 1)
-        {
+        if ((root->val & 1) == 1) {
             curr |= 1;
         }
 
-        helper(root->left, curr, output);
-
-        helper(root->right, curr, output);
-
-        if (root->left == nullptr && root->right == nullptr)
-        {
+        if (root->left == nullptr && root->right == nullptr) {
             output += curr;
+            return;
         }
+        DFS(root->left, curr, output);
+        DFS(root->right, curr, output);
     }
 
-    int sumRootToLeaf(TreeNode* root) {
+    int sumRootToLeaf(TreeNode* root) {     
         int output = 0;
 
-        helper(root, 0, output);
+        DFS(root, 0, output);
 
         return output;
     }
