@@ -1,32 +1,26 @@
 class Solution {
 public:
     vector<int> sortByBits(vector<int>& arr) {
-        vector<pair<int,int>> bits(arr.size(), {0, 0});
+        unordered_map<int, int> um;
 
-        for (int i = 0; i < arr.size(); i++)
-        {
-            int curr = arr[i];
-            bits[i].second = curr;
-
-            int counter = 0;
-            while (curr > 0)
-            {
-                if ((curr & 1) == 1)
-                {
-                    counter++;
+        for (int i = 0; i < arr.size(); i++) {
+            if (!um.contains(arr[i])) {
+                int curr = arr[i];
+                while (curr > 0) {
+                    if ((curr & 1) == 1) {
+                        um[arr[i]]++;
+                    }
+                    curr >>= 1;
                 }
-                curr >>= 1;
             }
-
-            bits[i].first = counter;
         }
 
-        sort(begin(bits), end(bits));
-
-        for (int i = 0; i < arr.size(); i++)
-        {
-            arr[i] = bits[i].second;
-        }
+        sort(begin(arr), end(arr), [&](int a, int b) {
+            if (um[a] == um[b]) {
+                return a < b;
+            }
+            return um[a] < um[b];
+        });
 
         return arr;
     }
