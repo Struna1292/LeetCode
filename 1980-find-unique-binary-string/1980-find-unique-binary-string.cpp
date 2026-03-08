@@ -1,94 +1,36 @@
 class Solution {
 public:
-
     string findDifferentBinaryString(vector<string>& nums) {
-        vector<int> nums1;
-
-        for (int i = 0; i < nums.size(); i++)
-        {
-            int curr = 0;
-            for (int j = 0; j < nums[i].length(); j++)
-            {
-                curr <<= 1;
-                if (nums[i][j] == '1')
-                {
-                    curr |= 1;
-                }
-            }
-            nums1.push_back(curr);
+        
+        set<int> st;
+        for (string s : nums) {
+            int curr = stoi(s, nullptr, 2);
+            st.insert(curr);
         }
 
-        sort(begin(nums1), end(nums1));
+        int length = nums[0].length();
+        int maxNumber = 0;
+        for (int i = length; i > 0; i--) {
+            maxNumber <<= 1;
+            maxNumber |= 1;
+        }
 
-        string output;
+        while (maxNumber >= 0) {
 
-        for (int i = 0; i < nums1[nums1.size()-1]; i++)
-        {
-            if (nums1[i] != i)
-            {
-                while (i > 0)
-                {
-                    if ((i & 1) == 1)
-                    {
-                        output.push_back('1');
-                    }
-                    else
-                    {
-                        output.push_back('0');
-                    }
-                    i >>= 1;
-                }
+            if (!st.contains(maxNumber)) {
+                string s = bitset<64>(maxNumber).to_string();
+                string output(length, '0');
 
-                int n = output.length();
-                for (int j = 0; j < nums[0].length() - n; j++)
-                {
-                    output.push_back('0');
-                }
-
-                int j = 0;
-                int k = output.length()-1;
-                while (j < k)
-                {
-                    swap(output[j], output[k]);
-                    j++;
-                    k--;
+                for (int j = 0; j < length; j++) {
+                    output[j] = s[s.length()-length+j];
                 }
 
                 return output;
             }
+
+            maxNumber--;
         }
 
-        int i = nums1[nums1.size()-1]+1;
-
-        while (i > 0)
-        {
-            if ((i & 1) == 1)
-            {
-                output.push_back('1');
-            }
-            else
-            {
-                output.push_back('0');
-            }
-            i >>= 1;
-        }
-
-        int n = output.length();
-        for (int j = 0; j < nums[0].length() - n; j++)
-        {
-            output.push_back('0');
-        }
-
-        int j = 0;
-        int k = output.length()-1;
-        while (j < k)
-        {
-            swap(output[j], output[k]);
-            j++;
-            k--;
-        }
-
-
-        return output;
+        return "";
     }
 };
