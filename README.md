@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Struna1292/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Struna1292/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Struna1292/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3861-minimum-capacity-box](https://github.com/Struna1292/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Struna1292/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3863-power-grid-maintenance](https://github.com/Struna1292/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Struna1292/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
