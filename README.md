@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/Struna1292/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Struna1292/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Struna1292/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Struna1292/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Struna1292/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Struna1292/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -908,6 +909,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/Struna1292/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/Struna1292/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Struna1292/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Struna1292/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Struna1292/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Struna1292/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1123,6 +1125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/Struna1292/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Struna1292/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Struna1292/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Struna1292/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Struna1292/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Struna1292/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1475,6 +1478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Struna1292/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Struna1292/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/Struna1292/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/Struna1292/LeetCode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/Struna1292/LeetCode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/Struna1292/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -1501,6 +1505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Struna1292/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Struna1292/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Struna1292/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Struna1292/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Struna1292/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Struna1292/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1643,6 +1648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Struna1292/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Struna1292/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Struna1292/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Struna1292/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
