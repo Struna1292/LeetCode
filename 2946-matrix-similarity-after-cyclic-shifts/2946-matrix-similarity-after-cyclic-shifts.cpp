@@ -1,24 +1,34 @@
 class Solution {
 public:
     bool areSimilar(vector<vector<int>>& mat, int k) {
+        k %= mat[0].size();
 
-        int shifts = k % mat[0].size();
+        if (k == 0) {
+            return true;
+        }
 
-        for (int i = 0; i < mat[0].size(); i++)
-        {
-            for (int j = 0; j < mat.size(); j++)
-            {
+        for (int i = 0; i < mat.size(); i++) {
+            vector<int> currRow = mat[i];
 
-                int index = i + shifts;
-
-                if (index >= mat[0].size())
-                {
-                    index -= mat[0].size();
+            for (int j = 0; j < mat[i].size(); j++) {
+                int index = j;
+                if (mat[i][j] % 2 == 0) {
+                    index -= k;
+                    if (index < 0) {
+                        index += mat[i].size();
+                    }
+                }
+                else {
+                    index += k;
+                    index %= mat[i].size();
                 }
 
+                currRow[index] = mat[i][j];
+            }
 
-                if (mat[j][i] != mat[j][index])
-                {
+
+            for (int j = 0; j < currRow.size(); j++) {
+                if (currRow[j] != mat[i][j]) {
                     return false;
                 }
             }
