@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3861-minimum-capacity-box](https://github.com/Struna1292/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Struna1292/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3863-power-grid-maintenance](https://github.com/Struna1292/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Struna1292/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Struna1292/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Struna1292/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -846,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Struna1292/LeetCode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Struna1292/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Struna1292/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Struna1292/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -1100,6 +1102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3811-reverse-degree-of-a-string](https://github.com/Struna1292/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Struna1292/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Struna1292/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Struna1292/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Struna1292/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Math
 |  |
@@ -1189,6 +1192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Struna1292/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3848-check-digitorial-permutation](https://github.com/Struna1292/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3859-maximum-product-of-two-digits](https://github.com/Struna1292/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Struna1292/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Struna1292/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Struna1292/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Struna1292/LeetCode/tree/master/3879-find-minimum-log-transportation-cost) |
@@ -1810,6 +1814,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Struna1292/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Struna1292/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Struna1292/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Monotonic Stack
 |  |
