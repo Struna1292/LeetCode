@@ -626,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Struna1292/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/Struna1292/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1006-vowel-spellchecker](https://github.com/Struna1292/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Struna1292/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Struna1292/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1156-occurrences-after-bigram](https://github.com/Struna1292/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1160-letter-tile-possibilities](https://github.com/Struna1292/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -1133,6 +1134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/Struna1292/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-largest-perimeter-triangle](https://github.com/Struna1292/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Struna1292/LeetCode/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Struna1292/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/Struna1292/LeetCode/tree/master/1260-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Struna1292/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Struna1292/LeetCode/tree/master/1390-four-divisors) |
