@@ -509,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-find-lucky-integer-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Struna1292/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/Struna1292/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Struna1292/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Struna1292/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Struna1292/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Struna1292/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Struna1292/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Struna1292/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Struna1292/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1660-thousand-separator](https://github.com/Struna1292/LeetCode/tree/master/1660-thousand-separator) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Struna1292/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Struna1292/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -766,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Struna1292/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Struna1292/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Struna1292/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Struna1292/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Struna1292/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -924,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Struna1292/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Struna1292/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Struna1292/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Struna1292/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Struna1292/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/Struna1292/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Struna1292/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
