@@ -1,44 +1,36 @@
 class Solution {
 public:
     bool closeStrings(string word1, string word2) {
-        if (word1.length() != word2.length())
-        {
-            return false;
+        
+        unordered_set<char> letters;
+        unordered_map<char, int> freq1;
+
+        for (int i = 0; i < word1.length(); i++) {
+            letters.insert(word1[i]);
+
+            freq1[word1[i]]++;
         }
 
-        vector<int> a1(26, 0);
-        vector<int> a2(26, 0);
-
-        for (int i = 0; i < word1.length(); i++)
-        {
-            a1[word1[i]-'a']++;
-            a2[word2[i]-'a']++;
-        }
-
-        vector<int> freq1;
-        vector<int> freq2;
-
-        for (int i = 0; i < 26; i++)
-        {
-            if (a1[i] == 0 && a2[i] > 0 || a1[i] > 0 && a2[i] == 0)
-            {
+        unordered_map<char, int> freq2;    
+        for (int i = 0; i < word2.length(); i++) {
+            if (!letters.contains(word2[i])) {
                 return false;
             }
 
-            if (a1[i] > 0 && a2[i] > 0)
-            {
-                freq1.push_back(a1[i]);
-                freq2.push_back(a2[i]);
-            }
+            freq2[word2[i]]++;
         }
 
-        sort(begin(freq1), end(freq1));
-        sort(begin(freq2), end(freq2));
+        unordered_map<int, int> totalFreqs;
 
-        for (int i = 0; i < freq1.size(); i++)
-        {
-            if (freq1[i] != freq2[i])
-            {
+        for (auto itr = freq1.begin(); itr != freq1.end(); itr++) {
+            totalFreqs[itr->second]++;
+        }
+        for (auto itr = freq2.begin(); itr != freq2.end(); itr++) {
+            totalFreqs[itr->second]--;
+        }
+
+        for (auto itr = totalFreqs.begin(); itr != totalFreqs.end(); itr++) {
+            if (itr->second != 0) {
                 return false;
             }
         }
