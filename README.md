@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0840-magic-squares-in-grid](https://github.com/Struna1292/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Struna1292/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Struna1292/LeetCode/tree/master/0859-design-circular-deque) |
+| [0874-walking-robot-simulation](https://github.com/Struna1292/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/Struna1292/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Struna1292/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0924-fair-candy-swap](https://github.com/Struna1292/LeetCode/tree/master/0924-fair-candy-swap) |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0829-subdomain-visit-count](https://github.com/Struna1292/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0840-magic-squares-in-grid](https://github.com/Struna1292/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Struna1292/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Struna1292/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0906-walking-robot-simulation](https://github.com/Struna1292/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Struna1292/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/Struna1292/LeetCode/tree/master/0924-fair-candy-swap) |
@@ -1065,6 +1067,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/Struna1292/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Struna1292/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Struna1292/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Struna1292/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0906-walking-robot-simulation](https://github.com/Struna1292/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1386-shift-2d-grid](https://github.com/Struna1292/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Struna1292/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
