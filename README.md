@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Struna1292/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Struna1292/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Struna1292/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Struna1292/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Struna1292/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Struna1292/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Struna1292/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -580,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3719-longest-balanced-subarray-i](https://github.com/Struna1292/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Struna1292/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Struna1292/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Struna1292/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Struna1292/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Struna1292/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Struna1292/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
