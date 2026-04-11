@@ -1,27 +1,27 @@
 class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
-        unordered_map<int, vector<int>> um;
-
-        for (int i = 0; i < nums.size(); i++) {
-            um[nums[i]].push_back(i);
-        }
+        unordered_map<int, list<int>> um;
 
         int output = -1;
 
-        for (auto itr = um.begin(); itr != um.end(); itr++) {
-            vector<int> curr = itr->second;
+        for (int i = 0; i < nums.size(); i++) {
+            if (um[nums[i]].size() == 2) {
+                int first = um[nums[i]].front();
+                int second = um[nums[i]].back();
+                int third = i;
 
-            for (int i = 2; i < curr.size(); i++) {
-                if (output == -1) {
-                    output = abs(curr[i-2] - curr[i-1]) + abs(curr[i-1] - curr[i]) + abs(curr[i] - curr[i-2]);
+                int currDistance = abs(first - second) + abs(second - third) + abs(third - first);
+                if (output == -1 || output > currDistance) {
+                    output = currDistance;
                 }
-                else {
-                    output = min(output, abs(curr[i-2] - curr[i-1]) + abs(curr[i-1] - curr[i]) + abs(curr[i] - curr[i-2]));
-                }
+
+                um[nums[i]].pop_front();
             }
+
+            um[nums[i]].push_back(i);
         }
 
-        return output;        
+        return output;      
     }
 };
