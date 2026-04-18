@@ -1,16 +1,15 @@
 class Solution {
 public:
     int mirrorDistance(int n) {
-        string s = to_string(n);
+        int reversed = 0;
+        int num = n;
 
-        int i = 0;
-        int j = s.length()-1;
-        while (i < j) {
-            swap(s[i], s[j]);
-            i++;
-            j--;
+        while (num != 0) {
+            int digit = num % 10;          
+            reversed = reversed * 10 + digit; 
+            num /= 10;                    
         }
 
-        return  abs(n - stoi(s));
+        return  abs(n - reversed);
     }
 };
