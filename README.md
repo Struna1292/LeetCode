@@ -453,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Struna1292/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Struna1292/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Struna1292/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Struna1292/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/Struna1292/LeetCode/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Struna1292/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
