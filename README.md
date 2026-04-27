@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1380-number-of-closed-islands](https://github.com/Struna1292/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1386-shift-2d-grid](https://github.com/Struna1292/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1390-four-divisors](https://github.com/Struna1292/LeetCode/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Struna1292/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -1495,6 +1496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/Struna1292/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Struna1292/LeetCode/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -1536,6 +1538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Struna1292/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Struna1292/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1386-shift-2d-grid](https://github.com/Struna1292/LeetCode/tree/master/1386-shift-2d-grid) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Struna1292/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1645,6 +1648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Struna1292/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1380-number-of-closed-islands](https://github.com/Struna1292/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Struna1292/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Struna1292/LeetCode/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/Struna1292/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -2052,4 +2056,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Struna1292/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
