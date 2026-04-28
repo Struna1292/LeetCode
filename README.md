@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Struna1292/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Struna1292/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Struna1292/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Struna1292/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-count-sub-islands](https://github.com/Struna1292/LeetCode/tree/master/2035-count-sub-islands) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Struna1292/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/Struna1292/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -961,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Struna1292/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Struna1292/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Struna1292/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Struna1292/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Struna1292/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Struna1292/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1192,6 +1194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-square-sum-triples](https://github.com/Struna1292/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Struna1292/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Struna1292/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Struna1292/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/Struna1292/LeetCode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Struna1292/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Struna1292/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1550,6 +1553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Struna1292/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Struna1292/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1972-rotating-the-box](https://github.com/Struna1292/LeetCode/tree/master/1972-rotating-the-box) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Struna1292/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-count-sub-islands](https://github.com/Struna1292/LeetCode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/Struna1292/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Struna1292/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
