@@ -456,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Struna1292/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Struna1292/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Struna1292/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3905-multi-source-flood-fill](https://github.com/Struna1292/LeetCode/tree/master/3905-multi-source-flood-fill) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/Struna1292/LeetCode/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Struna1292/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
@@ -1578,6 +1579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Struna1292/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Struna1292/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Struna1292/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3905-multi-source-flood-fill](https://github.com/Struna1292/LeetCode/tree/master/3905-multi-source-flood-fill) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1668,6 +1670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Struna1292/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Struna1292/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3863-power-grid-maintenance](https://github.com/Struna1292/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3905-multi-source-flood-fill](https://github.com/Struna1292/LeetCode/tree/master/3905-multi-source-flood-fill) |
 ## Bit Manipulation
 |  |
 | ------- |
