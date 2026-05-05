@@ -853,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Struna1292/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Struna1292/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Struna1292/LeetCode/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/Struna1292/LeetCode/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/Struna1292/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Struna1292/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Struna1292/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1077,6 +1078,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Struna1292/LeetCode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Struna1292/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Struna1292/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Struna1292/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
