@@ -1,63 +1,27 @@
 class Solution {
 public:
     vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
-        vector<int> output;
+        int n = A.size();
 
-        class Used {
-            public:
-                int x,y;
-        };
-
-        vector<Used> indexes;
+        vector<int> output(n, 0);
+        unordered_set<int> visited;
 
         int counter = 0;
-        for (int i = 0; i < A.size(); i++)
-        {
-            for (int j = 0; j <= i; j++)
-            {
-                if (A[i] == B[j])
-                {
-                    int counter1 = 0;
-                    for (int k = 0; k < indexes.size(); k++)
-                    {
-                        if (indexes[k].x == i && indexes[k].y == j)
-                        {
-                            break;
-                        }
-                        else
-                        {
-                            counter1++;
-                        }
-                    }
-                    if (counter1 == indexes.size())
-                    {
-                        counter++;
-                        indexes.push_back({i,j});
-                    }
-                }
-                if (B[i] == A[j])
-                {
-                    int counter1 = 0;
-                    for (int k = 0; k < indexes.size(); k++)
-                    {
-                        if (indexes[k].x == j && indexes[k].y == i)
-                        {
-                            break;
-                        }
-                        else
-                        {
-                            counter1++;
-                        }
-                    }
-                    if (counter1 == indexes.size())
-                    {
-                        counter++;
-                        indexes.push_back({i,j});
-                    }
-                }
+
+        for (int i = n-1; i >= 0; i--) {
+            output[i] = n-counter;
+
+            if (!visited.contains(A[i])) {
+                visited.insert(A[i]);
+                counter++;
             }
-            output.push_back(counter);
+
+            if (!visited.contains(B[i])) {
+                visited.insert(B[i]);
+                counter++;
+            }
         }
+
         return output;
     }
 };
