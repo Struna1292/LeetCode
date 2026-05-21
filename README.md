@@ -371,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/Struna1292/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Struna1292/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Struna1292/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Struna1292/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Struna1292/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Struna1292/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Struna1292/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -580,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Struna1292/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Struna1292/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Struna1292/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Struna1292/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Struna1292/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -743,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Struna1292/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Struna1292/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Struna1292/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Struna1292/LeetCode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Struna1292/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Struna1292/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -1753,6 +1756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/Struna1292/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Struna1292/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Struna1292/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Struna1292/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Struna1292/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
 |  |
