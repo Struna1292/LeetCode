@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-the-number-of-special-characters-ii/">3121. Count the Number of Special Characters II</a></h2><h3>Medium</h3><hr><div><p>You are given a string <code>word</code>. A letter&nbsp;<code>c</code> is called <strong>special</strong> if it appears <strong>both</strong> in lowercase and uppercase in <code>word</code>, and <strong>every</strong> lowercase occurrence of <code>c</code> appears before the <strong>first</strong> uppercase occurrence of <code>c</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-the-number-of-special-characters-ii">3405. Count the Number of Special Characters II</a></h2><h3>Medium</h3><hr><p>You are given a string <code>word</code>. A letter&nbsp;<code>c</code> is called <strong>special</strong> if it appears <strong>both</strong> in lowercase and uppercase in <code>word</code>, and <strong>every</strong> lowercase occurrence of <code>c</code> appears before the <strong>first</strong> uppercase occurrence of <code>c</code>.</p>
 
 <p>Return the number of<em> </em><strong>special</strong> letters<em> </em>in<em> </em><code>word</code>.</p>
 
@@ -6,19 +6,19 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">word = "aaAbcBC"</span></p>
+<p><strong>Input:</strong> <span class="example-io">word = &quot;aaAbcBC&quot;</span></p>
 
 <p><strong>Output:</strong> <span class="example-io">3</span></p>
 
 <p><strong>Explanation:</strong></p>
 
-<p>The special characters are <code>'a'</code>, <code>'b'</code>, and <code>'c'</code>.</p>
+<p>The special characters are <code>&#39;a&#39;</code>, <code>&#39;b&#39;</code>, and <code>&#39;c&#39;</code>.</p>
 </div>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">word = "abc"</span></p>
+<p><strong>Input:</strong> <span class="example-io">word = &quot;abc&quot;</span></p>
 
 <p><strong>Output:</strong> <span class="example-io">0</span></p>
 
@@ -30,7 +30,7 @@
 <p><strong class="example">Example 3:</strong></p>
 
 <div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">word = "AbBCab"</span></p>
+<p><strong>Input:</strong> <span class="example-io">word = &quot;AbBCab&quot;</span></p>
 
 <p><strong>Output:</strong> <span class="example-io">0</span></p>
 
@@ -46,4 +46,3 @@
 	<li><code>1 &lt;= word.length &lt;= 2 * 10<sup>5</sup></code></li>
 	<li><code>word</code> consists of only lowercase and uppercase English letters.</li>
 </ul>
-</div>
