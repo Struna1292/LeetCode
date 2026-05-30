@@ -798,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Struna1292/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3889-mirror-frequency-distance](https://github.com/Struna1292/LeetCode/tree/master/3889-mirror-frequency-distance) |
+| [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/Struna1292/LeetCode/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 | [3931-check-adjacent-digit-differences](https://github.com/Struna1292/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 | [4055-longest-balanced-substring-i](https://github.com/Struna1292/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Counting
