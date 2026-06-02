@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Struna1292/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3632-button-with-longest-push-time](https://github.com/Struna1292/LeetCode/tree/master/3632-button-with-longest-push-time) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Struna1292/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Struna1292/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Struna1292/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -914,6 +915,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Struna1292/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Struna1292/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Struna1292/LeetCode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Struna1292/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Struna1292/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Struna1292/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Struna1292/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -948,6 +950,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/Struna1292/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Struna1292/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Struna1292/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Struna1292/LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3790-fruits-into-baskets-ii](https://github.com/Struna1292/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1033,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Struna1292/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Struna1292/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Struna1292/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Struna1292/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Struna1292/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Struna1292/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Struna1292/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -1102,6 +1106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Struna1292/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Struna1292/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Struna1292/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Struna1292/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Struna1292/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Struna1292/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Struna1292/LeetCode/tree/master/3781-maximum-score-after-binary-swaps) |
