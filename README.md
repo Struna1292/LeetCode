@@ -471,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Struna1292/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Struna1292/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Struna1292/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3895-count-digit-appearances](https://github.com/Struna1292/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3904-smallest-stable-index-ii](https://github.com/Struna1292/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Struna1292/LeetCode/tree/master/3905-multi-source-flood-fill) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -1302,6 +1303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Struna1292/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Struna1292/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Struna1292/LeetCode/tree/master/3879-find-minimum-log-transportation-cost) |
+| [3895-count-digit-appearances](https://github.com/Struna1292/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Struna1292/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Recursion
