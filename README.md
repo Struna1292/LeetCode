@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/Struna1292/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Struna1292/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Struna1292/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Struna1292/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Struna1292/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Struna1292/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1651,6 +1652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/Struna1292/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Struna1292/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Struna1292/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2574-left-and-right-sum-differences](https://github.com/Struna1292/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Struna1292/LeetCode/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/Struna1292/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Struna1292/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
