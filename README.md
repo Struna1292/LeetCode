@@ -639,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Struna1292/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3889-mirror-frequency-distance](https://github.com/Struna1292/LeetCode/tree/master/3889-mirror-frequency-distance) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3945-digit-frequency-score](https://github.com/Struna1292/LeetCode/tree/master/3945-digit-frequency-score) |
 | [4055-longest-balanced-substring-i](https://github.com/Struna1292/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Struna1292/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Struna1292/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -1313,6 +1314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3879-find-minimum-log-transportation-cost](https://github.com/Struna1292/LeetCode/tree/master/3879-find-minimum-log-transportation-cost) |
 | [3895-count-digit-appearances](https://github.com/Struna1292/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3945-digit-frequency-score](https://github.com/Struna1292/LeetCode/tree/master/3945-digit-frequency-score) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Struna1292/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Recursion
 |  |
