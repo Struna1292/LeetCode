@@ -446,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Struna1292/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Struna1292/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Struna1292/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3708-longest-fibonacci-subarray](https://github.com/Struna1292/LeetCode/tree/master/3708-longest-fibonacci-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/Struna1292/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3723-sum-of-good-numbers](https://github.com/Struna1292/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Struna1292/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
