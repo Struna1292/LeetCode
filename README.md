@@ -467,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3797-design-spreadsheet](https://github.com/Struna1292/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Struna1292/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Struna1292/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3838-weighted-word-mapping](https://github.com/Struna1292/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Struna1292/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Struna1292/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/Struna1292/LeetCode/tree/master/3861-minimum-capacity-box) |
@@ -807,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3798-largest-even-number](https://github.com/Struna1292/LeetCode/tree/master/3798-largest-even-number) |
 | [3811-reverse-degree-of-a-string](https://github.com/Struna1292/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Struna1292/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Struna1292/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Struna1292/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Struna1292/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3889-mirror-frequency-distance](https://github.com/Struna1292/LeetCode/tree/master/3889-mirror-frequency-distance) |
@@ -1213,6 +1215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3790-fruits-into-baskets-ii](https://github.com/Struna1292/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Struna1292/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Struna1292/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Struna1292/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Struna1292/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Struna1292/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Struna1292/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
