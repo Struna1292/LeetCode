@@ -1795,6 +1795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Struna1292/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Struna1292/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3827-count-monobit-integers](https://github.com/Struna1292/LeetCode/tree/master/3827-count-monobit-integers) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Struna1292/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/Struna1292/LeetCode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Trie
 |  |
@@ -1879,6 +1880,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Struna1292/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Struna1292/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3827-count-monobit-integers](https://github.com/Struna1292/LeetCode/tree/master/3827-count-monobit-integers) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Struna1292/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [4055-longest-balanced-substring-i](https://github.com/Struna1292/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4112-maximize-expression-of-three-elements](https://github.com/Struna1292/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Rolling Hash
@@ -2107,6 +2109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Struna1292/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Struna1292/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Struna1292/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Struna1292/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Topological Sort
 |  |
 | ------- |
