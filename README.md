@@ -482,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3904-smallest-stable-index-ii](https://github.com/Struna1292/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Struna1292/LeetCode/tree/master/3905-multi-source-flood-fill) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Struna1292/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Struna1292/LeetCode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/Struna1292/LeetCode/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Struna1292/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Struna1292/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
@@ -1883,6 +1884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Struna1292/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Struna1292/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3827-count-monobit-integers](https://github.com/Struna1292/LeetCode/tree/master/3827-count-monobit-integers) |
+| [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Struna1292/LeetCode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Struna1292/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [4055-longest-balanced-substring-i](https://github.com/Struna1292/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4112-maximize-expression-of-three-elements](https://github.com/Struna1292/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
